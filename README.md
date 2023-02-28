@@ -50,7 +50,7 @@
 
 ### 4. 온보딩 코스
 1. [learnGPT](https://github.com/AttentionX/learnGPT/)
-    - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD 개발 및 구현
+    - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD 개발 및 GPT 구현
     - Week 1
         1. Bigran Language Model
         2. N-gram Language Model
