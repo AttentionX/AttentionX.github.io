@@ -7,6 +7,7 @@
 - [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 ## 1기 소개
+
 ### 1. 멤버
 1. 운영진
     1. 이아담 - 조지아텍 컴퓨터공학과 / 마인즈랩 비전팀 AI Scientist
@@ -33,14 +34,20 @@
     15. 김준선
     16. 이기상
     17. 강병준
+
+
 ### 2. 온보딩 프로젝트
 - [GPT-3 api를 이용한 프로젝트 개발](https://github.com/AttentionX/onboarding-projects)
     1. 논문 요약하기
     2. 논문에 관한 질의응답하는 Q&A 챗봇 만들기
     3. [자유 프로젝트](https://skillful-houseboat-70c.notion.site/Onboarding-Projects-b698486677d34ca1a5ea6c0d79ed7a28)
+
+
 ### 3. 스터디 세션 (논문 리뷰)
 - 매주 논문 리뷰 진행
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
+
+
 ### 4. 온보딩 코스
 1. [learnGPT](https://github.com/AttentionX/learnGPT/)
     - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD 개발 및 구현
@@ -57,15 +64,21 @@
         4. Dropout
 2. [discussGPT](https://github.com/AttentionX/discuss-chatgpt)
     - ❓사람들은 왜 ChatGPT에 열광하는가?
+
+
 ### 5. 메인 프로젝트
 1. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
 2. LAWI: Legal AI for Everyone
 3. Willow Tree: Your reading copilot
 4. Chat Assistant: Retrieval & Action Research + Document Q&A Chatbot
 5. NALY: Not your another digital assistant, It's time to meet your friend
+
+
 ### 6. 게스트 연사
 1. 뤼튼 이세영 대표님
 2. 팀러너스 맹주성 & 링글 이세파 대표님
+
+
 #### 7. Contact
 - 010-5284-3492 (이아담)
 - adamlee3211@gmail.com (이아담)
