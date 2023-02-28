@@ -1,7 +1,7 @@
 # AttentionX.github.io
 
 ## NLP Development + Research Group
-- [동아리 소개 PPT] (https://docs.google.com/presentation/d/1Hgeds1l9y3JyJUjXU_E-IhrXICpvgDN2WZeFHhnQ4xI/edit?usp=sharing)
+- [동아리 소개 PPT](https://docs.google.com/presentation/d/1Hgeds1l9y3JyJUjXU_E-IhrXICpvgDN2WZeFHhnQ4xI/edit?usp=sharing)
 - [동아리 GitHub](https://github.com/AttentionX)
 - [동아리 유투브](https://www.youtube.com/@attentionx)
 - [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
@@ -42,30 +42,30 @@
 - 매주 논문 리뷰 진행
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 ### 4. 온보딩 코스
-    1. [learnGPT](https://github.com/AttentionX/learnGPT/)
-        - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD 개발 및 구현
-        - Week 1
-            1. Bigran Language Model
-            2. N-gram Language Model
-            3. Matrix multiplication, masking, softmax
-            4. Self-attention
-            5. Positonal Encoding
-        - Week 2
-            1. Multihead Attention
-            2. Feedforward Network & Residual connection
-            3. Layer Normalization
-            4. Dropout
-    2. [discussGPT](https://github.com/AttentionX/discuss-chatgpt)
-        - ❓사람들은 왜 ChatGPT에 열광하는가?
+1. [learnGPT](https://github.com/AttentionX/learnGPT/)
+    - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD 개발 및 구현
+    - Week 1
+        1. Bigran Language Model
+        2. N-gram Language Model
+        3. Matrix multiplication, masking, softmax
+        4. Self-attention
+        5. Positonal Encoding
+    - Week 2
+        1. Multihead Attention
+        2. Feedforward Network & Residual connection
+        3. Layer Normalization
+        4. Dropout
+2. [discussGPT](https://github.com/AttentionX/discuss-chatgpt)
+    - ❓사람들은 왜 ChatGPT에 열광하는가?
 ### 5. 메인 프로젝트
-    1. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
-    2. LAWI: Legal AI for Everyone
-    3. Willow Tree: Your reading copilot
-    4. Chat Assistant: Retrieval & Action Research + Document Q&A Chatbot
-    5. NALY: Not your another digital assistant, It's time to meet your friend
+1. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
+2. LAWI: Legal AI for Everyone
+3. Willow Tree: Your reading copilot
+4. Chat Assistant: Retrieval & Action Research + Document Q&A Chatbot
+5. NALY: Not your another digital assistant, It's time to meet your friend
 ### 6. 게스트 연사
-    1. 뤼튼 이세영 대표님
-    2. 팀러너스 맹주성 & 링글 이세파 대표님
+1. 뤼튼 이세영 대표님
+2. 팀러너스 맹주성 & 링글 이세파 대표님
 #### 7. Contact
-    - 010-5284-3492 (이아담)
-    - adamlee3211@gmail.com (이아담)
+- 010-5284-3492 (이아담)
+- adamlee3211@gmail.com (이아담)
