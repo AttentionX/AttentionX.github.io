@@ -74,7 +74,7 @@
 5. NALY: Not your another digital assistant, It's time to meet your friend
 
 
-### 6. 게스트 연사
+### 6. 게스트
 1. 뤼튼 이세영 대표님
 2. 팀러너스 맹주성 & 링글 이성파 대표님
 
