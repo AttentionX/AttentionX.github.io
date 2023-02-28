@@ -79,6 +79,11 @@
 2. 팀러너스 맹주성 & 링글 이성파 대표님
 
 
-### 7. Contact
+### 7. 자료실
+1. [NLP 기초 자료](https://skillful-houseboat-70c.notion.site/NLP-0cf2ffe5cc2542a4a6edd9f8e86fb4ef)
+2. [NLP 주요 논문들](https://skillful-houseboat-70c.notion.site/e805b63e1f304c53aed49b4b177d6019?v=22d6287722c341a3a0936638e73534b8)
+
+
+### Contact
 - 010-5284-3492 (이아담)
 - adamlee3211@gmail.com (이아담)
