@@ -1,6 +1,6 @@
 # AttentionX.github.io
 
-## NLP Development + Research Group
+## AttentionX: NLP Development + Research Group
 - [동아리 소개 PPT](https://docs.google.com/presentation/d/1Hgeds1l9y3JyJUjXU_E-IhrXICpvgDN2WZeFHhnQ4xI/edit?usp=sharing)
 - [동아리 GitHub](https://github.com/AttentionX)
 - [동아리 유투브](https://www.youtube.com/@attentionx)
