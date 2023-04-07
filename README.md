@@ -68,9 +68,9 @@
 
 ### 5. 메인 프로젝트
 1. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
-2. LAWI: Legal AI for Everyone
+2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
 3. Willow Tree: Your reading copilot
-4. Chat Assistant: Retrieval & Action Research + Document Q&A Chatbot
+4. Chat Assistant: Retrieval & Action Research + Chatbot
 5. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 
 
@@ -78,8 +78,9 @@
 1. [Knowledge Editing Porject](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
 
 ### 7. 게스트
-1. 뤼튼 이세영 대표님
-2. 팀러너스 맹주성 & 링글 이성파 대표님
+1. [뤼튼](https://wrtn.ai/) 이세영 대표님
+2. [팀러너스](https://www.learners.company/) 맹주성 대표님
+3. [링글](https://www.ringleplus.com/ko/student/landing/team) 이성파 대표님
 
 
 ### 8. 자료실
