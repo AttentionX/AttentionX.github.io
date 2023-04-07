@@ -11,8 +11,8 @@
 ### 1. 멤버
 1. 운영진
     1. 이아담 - 컬럼비아 컴퓨터공학과 / 마인즈랩 비전팀 AI Scientist
-    2. 김유빈 - 옥스퍼드 응용언어학과 석사 / 엑스트라이버에서 ML 엔지니어
-    3. 최하현 - 서울대학교 전기정보공학부 / 전기정보공학부 연구실 인턴
+    2. 김유빈 - 옥스퍼드 응용언어학과 석사 / 뤼튼 ML 엔지니어
+    3. 최하현 - 서울대학교 전기정보공학부 / 뤼튼 ML 엔지니어
     4. 강민영 - 서울대학교 기계공학과 / NPX TeraArk VC
     5. 조주환 - 서울대학교 컴퓨터공학부 / 컴퓨터공학부 연구실 인턴
     6. 오효민 - 퓨처플레이 심사역
@@ -24,12 +24,12 @@
     5. 김성경 - 서울대학교 전기정보공학부
     6. 이유종 - 성균관대학교 소프트웨어학과 / NALY
     7. 김진석 - 카이스트 전산학부 / NLP 연구실 인턴
-    8. 박준영 - 서울대학교 컴퓨터공학부
+    8. 박준영 - 서울대학교 컴퓨터공학부 / NLP 연구실 인턴
     9. 박준우 - 연세대학교 컴퓨터공학과
     10. 오채영 - 서울대학교 컴퓨터언어학 석사과정
     11. 오진호 - 서울대학교 에너지자원공학과 / VC
     12. 박윤아 - 서울대학교 컴퓨터공학과
-    13. 정순호 - 서울대학교 전기정보공학부
+    13. 정순호 - 서울대학교 전기정보공학부 / 팀러너스 엔지니어
     14. 김용환 - 카이스트 전기전자공학부
     15. 김준선 - 카이스트 전산학부 석사
     16. 이기상 - 카이스트 기술경영학부, 전산학부 / 클래스101 ML 엔지니어
@@ -71,15 +71,18 @@
 2. LAWI: Legal AI for Everyone
 3. Willow Tree: Your reading copilot
 4. Chat Assistant: Retrieval & Action Research + Document Q&A Chatbot
-5. NALY: Not your another digital assistant, It's time to meet your friend
+5. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 
 
-### 6. 게스트
+### 6. 연구 프로젝트
+1. [Knowledge Editing Porject](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
+
+### 7. 게스트
 1. 뤼튼 이세영 대표님
 2. 팀러너스 맹주성 & 링글 이성파 대표님
 
 
-### 7. 자료실
+### 8. 자료실
 1. [NLP 기초 자료](https://skillful-houseboat-70c.notion.site/NLP-0cf2ffe5cc2542a4a6edd9f8e86fb4ef)
 2. [NLP 주요 논문들](https://skillful-houseboat-70c.notion.site/e805b63e1f304c53aed49b4b177d6019?v=22d6287722c341a3a0936638e73534b8)
 
