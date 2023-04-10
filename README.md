@@ -69,7 +69,7 @@
 ### 5. 메인 프로젝트
 1. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
-3. Willow Tree: Your reading copilot
+3. [Nonskip Classic](https://youtu.be/D-e83xHWDYQ): Your reading copilot
 4. Chat Assistant: Retrieval & Action Research + Chatbot
 5. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 
