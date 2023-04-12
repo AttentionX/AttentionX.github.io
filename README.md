@@ -10,8 +10,8 @@
 
 ### 1. 멤버
 1. 운영진
-    1. 이아담 - 컬럼비아 컴퓨터공학과 / 마인즈랩 비전팀 AI Scientist
-    2. 김유빈 - 옥스퍼드 응용언어학과 석사 / 뤼튼 ML 엔지니어
+    1. 이아담 - Columbia 컴퓨터공학과 / 마인즈랩 비전팀 AI Scientist
+    2. 김유빈 - Oxford 응용언어학과 석사 / 뤼튼 ML 엔지니어
     3. 최하현 - 서울대학교 전기정보공학부 / 뤼튼 ML 엔지니어
     4. 강민영 - 서울대학교 기계공학과 / NPX TeraArk VC
     5. 조주환 - 서울대학교 컴퓨터공학부 / 컴퓨터공학부 연구실 인턴
@@ -70,7 +70,7 @@
 1. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
 3. [Nonskip Classic](https://youtu.be/D-e83xHWDYQ): Your reading copilot
-4. Chat Assistant: Retrieval & Action Research + Chatbot
+4. Chat Assistant: Retrieval & Action Research
 5. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 
 
