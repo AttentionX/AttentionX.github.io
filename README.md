@@ -10,7 +10,7 @@
 
 ### 1. 멤버
 1. 운영진
-    1. 이아담 - Columbia 컴퓨터공학과 / 마인즈랩 비전팀 AI Scientist
+    1. 이아담 - Berkeley 컴퓨터공학과 / 마인즈랩 비전팀 AI Scientist
     2. 김유빈 - Oxford 응용언어학과 석사 / 뤼튼 ML 엔지니어
     3. 최하현 - 서울대학교 전기정보공학부 / 뤼튼 ML 엔지니어
     4. 강민영 - 서울대학교 기계공학과 / NPX TeraArk VC
