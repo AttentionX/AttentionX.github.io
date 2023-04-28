@@ -75,7 +75,7 @@
 
 
 ### 6. 연구 프로젝트
-1. [Knowledge Editing Porject](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
+1. [Knowledge Editing Project](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
 
 ### 7. 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
