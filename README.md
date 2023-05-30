@@ -7,6 +7,7 @@
 - [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 ## 1기 소개
+개발자와 스타트업 창업가, 연구자, VC의 커뮤니티로 2개의 창업팀 형성과 퓨처플레이 공간 대여 지원, 최신 논문과 분야의 흐름을 공부하고 논의하면서 LLM과 NLP에 관한 state-of-the-art을 탐험하고 도전하는 조직
 
 ### Achievements
 
@@ -26,7 +27,7 @@
 
 8. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
 
-9. 개발자와 스타트업 창업가, 연구자, VC의 모임으로 2개의 창업팀 형성과 퓨처플레이 공간 대여 지원, 최신 논문과 분야의 흐름을 공부하고 논의하면서 LLM과 NLP에 관한 state-of-the-art을 탐험하고 도전하는 조직
+
 
 ### 1. 멤버
 1. 운영진
