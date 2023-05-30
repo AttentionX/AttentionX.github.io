@@ -24,7 +24,7 @@
 
 7. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
 
-8. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문리뷰와 연구 프로젝트 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
+8. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
 
 9. 개발자와 스타트업 창업가, 연구자, VC의 모임으로 2개의 창업팀 형성과 퓨처플레이 공간 대여 지원, 최신 논문과 분야의 흐름을 공부하고 논의하면서 LLM과 NLP에 관한 state-of-the-art을 탐험하고 도전하는 조직
 
@@ -57,7 +57,7 @@
 
 
 ### 2. 온보딩 프로젝트
-- [GPT-3 api를 이용한 프로젝트 개발](https://github.com/AttentionX/onboarding-projects)
+- [GPT-4 api를 이용한 프로젝트 개발](https://github.com/AttentionX/onboarding-projects)
     1. 논문 요약하기
     2. 논문에 관한 질의응답하는 Q&A 챗봇 만들기
     3. [자유 프로젝트](https://skillful-houseboat-70c.notion.site/Onboarding-Projects-b698486677d34ca1a5ea6c0d79ed7a28)
@@ -95,7 +95,7 @@
 
 
 ### 6. 연구 프로젝트
-1. [Knowledge Editing Project](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
+1. [Knowledge Editing, PEFT Project](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
 
 ### 7. 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
