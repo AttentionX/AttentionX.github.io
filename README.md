@@ -88,6 +88,15 @@
 2. [NLP 주요 논문들](https://skillful-houseboat-70c.notion.site/e805b63e1f304c53aed49b4b177d6019?v=22d6287722c341a3a0936638e73534b8)
 
 
+### Achievements
+1. LAWI 팀, 프라이머 Gen AI 해커톤 결선 진출
+2. NALY 팀, 프리오더 800만원 기록
+3. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
+4. 연구 팀, PEFT 실험, 자체 데이터셋 생성 및 모델 학습 (추후 공개)
+5. 1기 동아리원 4명, AI 스타트업에 취업 연계
+6. 1기 동아리원 김유빈, 클래스101에서 [프롬트 엔지니어링 강연](https://class101.net/ko/products/6464902abf9aed001562bcd1)
+7. 개발자와 스타트업 창업가, 연구자, VC의 모임으로 2개의 창업팀 형성과 퓨처플레이 공간 대여 지원, 최신 논문과 분야의 흐름을 공부하고 논의하면서 LLM과 NLP에 관해 state-of-the-art을 탐험하는 조직
+
 ### Contact
 - 010-5284-3492 (이아담)
 - adamlee3211@gmail.com (이아담)
