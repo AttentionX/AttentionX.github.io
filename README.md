@@ -18,7 +18,8 @@
 6. 1기 동아리원 4명, AI 스타트업에 취업 연계 (뤼튼 3)
 7. 1기 동아리원 김유빈, 클래스101에서 [프롬트 엔지니어링 강연](https://class101.net/ko/products/6464902abf9aed001562bcd1)
 8. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
-9. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
+9. 서울대 공과대학, 클라우드 GPU 지원
+10. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
 
 
 
