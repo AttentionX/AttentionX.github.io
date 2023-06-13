@@ -1,5 +1,4 @@
-
-
+![Logo](https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/353859022_992726275233807_42897169966521045_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8631f5&_nc_ohc=v7wZr-My4h8AX8U71pO&_nc_ht=scontent-gmp1-1.xx&oh=00_AfDDFOPf5QCTfIHF_9BcTwOHsnvZhebcwnLhtR-pK7TToQ&oe=648D04D1)
 # AttentionX: NLP Group
 
 - [동아리 인스타그램](https://www.instagram.com/attentionx.ai/)
