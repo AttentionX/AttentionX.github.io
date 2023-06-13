@@ -22,7 +22,8 @@ Coming Soon!
 7. 1기 동아리원 김유빈, 클래스101에서 [프롬트 엔지니어링 강연](https://class101.net/ko/products/6464902abf9aed001562bcd1)
 8. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
 9. 서울대학교 공과대학, 클라우드 GPU 일부 지원
-10. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
+10. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
+11. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
 
 
 
