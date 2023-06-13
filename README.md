@@ -87,6 +87,9 @@
 3. [Nonskip Classic](https://youtu.be/D-e83xHWDYQ): Your reading copilot
 4. Chat Assistant: Retrieval & Action Research
 5. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
+6. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share): Kakao Document Assistant
+7. [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==): Make Everything Memorizable
+
 
 
 ### 6. 연구 프로젝트
