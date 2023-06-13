@@ -2,6 +2,7 @@
 
 # AttentionX: NLP Group
 
+- [동아리 인스타그램](https://www.instagram.com/attentionx.ai/)
 - [동아리 GitHub](https://github.com/AttentionX)
 - [동아리 유투브](https://www.youtube.com/@attentionx)
 - [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
