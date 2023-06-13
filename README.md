@@ -9,8 +9,8 @@
 ## 1기 소개
 개발자와 스타트업 창업가, 연구자들의 커뮤니티로 2개의 스타트업 형성, 퓨처플레이 공간 지원, 최신 논문과 분야의 흐름을 공부하고 논의하면서 LLM과 NLP에 관한 state-of-the-art을 탐험하고 도전하는 조직
 
-## 2기 모집 Coming Soon! (6/16 ~ 7/2)
-Stay Tuned!
+## 2기 모집 (6/16 ~ 7/2)
+Coming Soon!
 
 ### Achievements
 1. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
@@ -85,13 +85,13 @@ Stay Tuned!
 
 
 ### 5. 메인 프로젝트
-1. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
+1. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
-3. [Nonskip Classic](https://youtu.be/D-e83xHWDYQ): Your reading copilot
-4. Chat Assistant: Retrieval & Action Research
-5. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
-6. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share): Kakao Document Assistant
-7. [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==): Make Everything Memorizable
+3. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share): Kakao Document Assistant
+4. [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==): Make Everything Memorizable
+5. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
+6. [Nonskip Classic](https://youtu.be/D-e83xHWDYQ): Your reading copilot
+7. Chat Assistant: Retrieval & Action Research
 
 
 
