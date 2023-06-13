@@ -115,5 +115,4 @@ Coming Soon!
 
 
 ### Contact
-- 010-5284-3492 (이아담)
-- adamlee3211@gmail.com (이아담)
+- attentionx.ai@gmail.com
