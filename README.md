@@ -10,6 +10,7 @@
 개발자와 스타트업 창업가, 연구자들의 커뮤니티로 2개의 스타트업 형성, 퓨처플레이 공간 지원, 최신 논문과 분야의 흐름을 공부하고 논의하면서 LLM과 NLP에 관한 state-of-the-art을 탐험하고 도전하는 조직
 
 ## 2기 모집 Coming Soon! (6/16 ~ 7/2)
+Stay Tuned!
 
 ### Achievements
 1. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
