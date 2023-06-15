@@ -101,7 +101,7 @@
 
 
 ### 6. 연구 프로젝트
-1. [Orion: Knowledge Editing via PEFT]([https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4))
+1. [Orion: Knowledge Editing via PEFT](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4)
 
 ### 7. 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
