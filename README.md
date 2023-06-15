@@ -12,7 +12,7 @@
 ### ✨ Achievements
 1. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
 2. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
-3. 연구 팀, llama 기반 자체 모델 학습: [Orion](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4) (추후 공개), EMNLP Workshop 준비
+3. 연구 팀, llama 기반 자체 모델 학습: [Orion](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4) (추후 공개, EMNLP Workshop 준비)
 4. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
 5. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
 6. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
