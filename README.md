@@ -21,7 +21,6 @@
 9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
 10. 서울대학교 공과대학, 클라우드 GPU 일부 지원
 11. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
-12. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
 
 ### 👀 동아리 집중 연구 분야
 1. Parameter Efficient Fine-tuning (PEFT) (LoRA, Adapter, P-tuning)
