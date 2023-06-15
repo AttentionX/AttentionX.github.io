@@ -20,7 +20,7 @@
 3. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
 4. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
 5. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-6. 연구 팀, PEFT 실험, 자체 데이터셋 생성 및 llama 기반 자체 모델 학습 (추후 공개)
+6. 연구 팀, llama 기반 자체 모델 학습: Orion (추후 공개), EMNLP Workshop 준비
 7. 1기 동아리원 4명, AI 스타트업에 취업 연계 (뤼튼 3)
 8. 1기 동아리원 김유빈, 클래스101에서 [프롬트 엔지니어링 강연](https://class101.net/ko/products/6464902abf9aed001562bcd1)
 9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
@@ -65,14 +65,9 @@
     3. [자유 프로젝트](https://skillful-houseboat-70c.notion.site/Onboarding-Projects-b698486677d34ca1a5ea6c0d79ed7a28)
 
 
-### 3. 스터디 세션 (논문 리뷰)
-- 매주 논문 리뷰 진행
-- [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
-
-
-### 4. 온보딩 코스
+### 3. 온보딩 코스
 1. [learnGPT](https://github.com/AttentionX/learnGPT/)
-    - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD 개발 및 GPT 구현
+    - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD로 GPT 구현
     - Week 1
         1. Bigran Language Model
         2. N-gram Language Model
@@ -85,7 +80,12 @@
         3. Layer Normalization
         4. Dropout
 2. [discussGPT](https://github.com/AttentionX/discuss-chatgpt)
-    - ❓사람들은 왜 ChatGPT에 열광하는가?
+    - 사람들은 왜 ChatGPT에 열광하는가❓
+
+
+### 4. 스터디 세션 (논문 리뷰)
+- 매주 논문 리뷰 진행
+- [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 
 ### 5. 메인 프로젝트
@@ -100,7 +100,7 @@
 
 
 ### 6. 연구 프로젝트
-1. [Knowledge Editing, PEFT Project](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
+1. [Orion: Knowledge Editing via PEFT Project](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
 
 ### 7. 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
