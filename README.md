@@ -1,12 +1,6 @@
 # AttentionX: NLP Group
 ![Logo](https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/353859022_992726275233807_42897169966521045_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8631f5&_nc_ohc=v7wZr-My4h8AX8U71pO&_nc_ht=scontent-gmp1-1.xx&oh=00_AfDDFOPf5QCTfIHF_9BcTwOHsnvZhebcwnLhtR-pK7TToQ&oe=648D04D1)
 
-- [동아리 인스타그램](https://www.instagram.com/attentionx.ai/)
-- [동아리 GitHub](https://github.com/AttentionX)
-- [동아리 유투브](https://www.youtube.com/@attentionx)
-- [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
-- 파트너쉽/후원 문의: attentionx.ai@gmail.com
-
 ## 💡 동아리 소개
 안녕하세요 작년 12월부터 시작되어 서울대학교, 카이스트, 외국 대학교 등의 학부생들 위주로 구성된 개발자와 스타트업 창업가, 연구자들의 커뮤니티입니다.
 저희는 LLM과 NLP에 관한 최신 논문과 분야의 흐름을 공부하고 논의하면서 NLP 프로덕트 개발과 연구를 하는 조직입니다!
@@ -110,11 +104,16 @@
 
 
 ### 8. 자료실
-1. [NLP 기초 자료](https://skillful-houseboat-70c.notion.site/NLP-0cf2ffe5cc2542a4a6edd9f8e86fb4ef)
-2. [NLP 주요 논문들](https://skillful-houseboat-70c.notion.site/e805b63e1f304c53aed49b4b177d6019?v=22d6287722c341a3a0936638e73534b8)
+1. [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
+2. [NLP 기초 자료](https://skillful-houseboat-70c.notion.site/NLP-0cf2ffe5cc2542a4a6edd9f8e86fb4ef)
+3. [NLP 주요 논문들](https://skillful-houseboat-70c.notion.site/e805b63e1f304c53aed49b4b177d6019?v=22d6287722c341a3a0936638e73534b8)
 
 
+### SNS
+- [인스타그램](https://www.instagram.com/attentionx.ai/)
+- [GitHub](https://github.com/AttentionX)
+- [유투브](https://www.youtube.com/@attentionx)
 
 
-### Contact
+### Contact (파트너쉽/후원)
 - attentionx.ai@gmail.com
