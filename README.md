@@ -20,7 +20,7 @@
 3. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
 4. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
 5. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-6. 연구 팀, llama 기반 자체 모델 학습: Orion (추후 공개), EMNLP Workshop 준비
+6. 연구 팀, llama 기반 자체 모델 학습: [Orion](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4) (추후 공개), EMNLP Workshop 준비
 7. 1기 동아리원 4명, AI 스타트업에 취업 연계 (뤼튼 3)
 8. 1기 동아리원 김유빈, 클래스101에서 [프롬트 엔지니어링 강연](https://class101.net/ko/products/6464902abf9aed001562bcd1)
 9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
@@ -100,7 +100,7 @@
 
 
 ### 6. 연구 프로젝트
-1. [Orion: Knowledge Editing via PEFT Project](https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d)
+1. [Orion: Knowledge Editing via PEFT Project]([https://eager-rest-e73.notion.site/Knowledge-Editing-Project-01a7ae98abb441dc878da267e4d3c66d](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4))
 
 ### 7. 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
