@@ -10,8 +10,9 @@
 ## 1기 소개
 개발자와 스타트업 창업가, 연구자들의 커뮤니티로 2개의 스타트업 형성, 퓨처플레이 공간 지원, 최신 논문과 분야의 흐름을 공부하고 논의하면서 LLM과 NLP에 관한 state-of-the-art을 탐험하고 도전하는 조직
 
-## 2기 모집 (6/16 ~ 7/2)
-Coming Soon!
+## 2기 모집 (7/2 마감)
+- [2기 모집 안내](https://skillful-houseboat-70c.notion.site/AttentionX-NLP-Group-2-540a6298e16149409c078d88d3684bd6)
+- [지원 링크](https://forms.gle/ZqNS6JUCp47V6pyz6)
 
 ### Achievements
 1. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
