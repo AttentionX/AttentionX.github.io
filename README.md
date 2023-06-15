@@ -23,9 +23,21 @@
 11. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
 12. Retrieval, Embedding, PEFT, LLM Agent, Prompt Engineering, Knowledge Editing관한 논문 리뷰와 연구 프로젝트 진행 및 GPT-4, LangChain, Pinecone을 활용한 프로덕트 개발
 
+### 👀 동아리 집중 연구 분야
+1. Parameter Efficient Fine-tuning (PEFT) (LoRA, Adapter, P-tuning)
+2. Vector Embedding, Retrieval
+3. Multimodal (Stable Diffusion, Dreambooth, CLIP)
+4. Agent (AutoGPT, LangChain, Semantic Kernel)
+5. Instruction Tuning (Alpaca, Vicuna)
+6. LLM Open Source Models (llama, Falcon, MPT)
+
+### ⌨️ 프로덕트 개발 스택
+1. LangChain
+2. Pinecone, Weaviate, Milvus (VectorDB)
+3. Llama-Index
 
 
-### 1. 멤버
+### 멤버
 1. 운영진
     1. 이아담 (대표) - UC Berkeley 컴퓨터공학과
     2. 김유빈 (부대표) - University of Oxford 응용언어학과 석사 / 뤼튼 ML 엔지니어
@@ -53,14 +65,14 @@
     17. 강병준 - 성균관대학교 심리학과 / NALY
 
 
-### 2. 온보딩 프로젝트
+### 1. 온보딩 프로젝트
 - [GPT-4 api를 이용한 프로젝트 개발](https://github.com/AttentionX/onboarding-projects)
     1. 논문 요약하기
     2. 논문에 관한 질의응답하는 Q&A 챗봇 만들기
     3. [자유 프로젝트](https://skillful-houseboat-70c.notion.site/Onboarding-Projects-b698486677d34ca1a5ea6c0d79ed7a28)
 
 
-### 3. 온보딩 코스
+### 2. 온보딩 코스
 1. [learnGPT](https://github.com/AttentionX/learnGPT/)
     - [Andrej Karpathy의 GPT 강의](https://www.youtube.com/watch?v=kCc8FmEb1nY) 및 [NanoGPT](https://github.com/karpathy/nanoGPT) 기반 TDD로 GPT 구현
     - Week 1
@@ -78,12 +90,12 @@
     - 사람들은 왜 ChatGPT에 열광하는가❓
 
 
-### 4. 스터디 세션 (논문 리뷰)
+### 3. 스터디 세션 (논문 리뷰)
 - 매주 논문 리뷰 진행
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 
-### 5. 메인 프로젝트
+### 4. 메인 프로젝트
 1. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
 3. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share): Kakao Document Assistant
@@ -94,16 +106,16 @@
 
 
 
-### 6. 연구 프로젝트
+### 5. 연구 프로젝트
 1. [Orion: Knowledge Editing via PEFT](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4)
 
-### 7. 게스트
+### 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
 2. [팀러너스](https://www.learners.company/) 맹주성 대표님
 3. [링글](https://www.ringleplus.com/ko/student/landing/team) 이성파 대표님
 
 
-### 8. 자료실
+### 자료실
 1. [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 2. [NLP 기초 자료](https://skillful-houseboat-70c.notion.site/NLP-0cf2ffe5cc2542a4a6edd9f8e86fb4ef)
 3. [NLP 주요 논문들](https://skillful-houseboat-70c.notion.site/e805b63e1f304c53aed49b4b177d6019?v=22d6287722c341a3a0936638e73534b8)
@@ -115,5 +127,5 @@
 - [유투브](https://www.youtube.com/@attentionx)
 
 
-### Contact (파트너쉽/후원)
+### Contact (파트너쉽/후원 문의)
 - attentionx.ai@gmail.com
