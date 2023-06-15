@@ -22,7 +22,7 @@
 10. 서울대학교 공과대학, 클라우드 GPU 일부 지원
 11. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
 
-### 👀 동아리 집중 연구 분야
+### 👀 집중 연구 분야
 1. Parameter Efficient Fine-tuning (PEFT) (LoRA, Adapter, P-tuning)
 2. Vector Embedding, Retrieval
 3. Multimodal (Stable Diffusion, Dreambooth, CLIP)
