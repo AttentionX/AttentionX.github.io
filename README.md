@@ -31,9 +31,10 @@
 6. LLM Open Source Models (llama, Falcon, MPT)
 
 ### ⌨️ 프로덕트 개발 스택
-1. LangChain
-2. Pinecone, Weaviate, Milvus (VectorDB)
-3. Llama-Index
+1. GPT-3.5, GPT-4 api
+2. LangChain
+3. Pinecone, Weaviate, Milvus (VectorDB)
+4. Llama-Index
 
 
 ### 👨‍👨‍👧‍👧 멤버
