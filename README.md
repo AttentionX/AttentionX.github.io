@@ -20,7 +20,7 @@
 8. 1기 동아리원 김유빈, 클래스101에서 [프롬트 엔지니어링 강연](https://class101.net/ko/products/6464902abf9aed001562bcd1)
 9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
 10. 서울대학교 공과대학, 클라우드 GPU 일부 지원
-11. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
+11. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
 
 ### 👀 집중 연구 분야
 1. Parameter Efficient Fine-tuning (PEFT) (LoRA, Adapter, P-tuning)
@@ -98,7 +98,7 @@
 ### 4. 💫 메인 프로젝트
 1. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
-3. [Simply AI](https://youtube.com/shorts/q2GpFOqvAqs?feature=share): Kakao Document Assistant
+3. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share): Kakao Document Assistant
 4. [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==): Make Everything Memorizable
 5. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
 6. [Nonskip Classic](https://youtu.be/D-e83xHWDYQ): Your reading copilot
