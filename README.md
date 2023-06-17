@@ -1,5 +1,5 @@
 # AttentionX: NLP Group
-![Logo](https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/353859022_992726275233807_42897169966521045_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8631f5&_nc_ohc=v7wZr-My4h8AX8U71pO&_nc_ht=scontent-gmp1-1.xx&oh=00_AfDDFOPf5QCTfIHF_9BcTwOHsnvZhebcwnLhtR-pK7TToQ&oe=648D04D1)
+![Logo](https://i.ibb.co/jJJV9fs/1686903632416.jpg)
 
 ## 💡 동아리 소개
 안녕하세요 작년 12월부터 시작되어 서울대학교, 카이스트, 외국 대학교 학부생들 위주로 구성된 개발자와 스타트업 창업가, 연구자들의 커뮤니티입니다.   
