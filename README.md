@@ -10,16 +10,16 @@
 - [지원 링크](https://forms.gle/ZqNS6JUCp47V6pyz6)
 
 ### ✨ Achievements
-1. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
-2. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
-3. 연구 팀, llama 기반 자체 모델 학습: [Orion](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4) (추후 공개, EMNLP Workshop 준비)
+1. 연구팀, llama 기반 자체 모델, [Orion](https://eager-rest-e73.notion.site/Orion-Knowledge-Editing-via-PEFT-52e2ab4eed0949848c68200ef08233e2?pvs=4), 학습 및 추후 공개 ([HuggingFace](https://huggingface.co/AttentionX/Orion/blob/main/README.md), EMNLP 워크샵 준비)
+2. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
+3. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
 4. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
 5. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
 6. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
 7. 1기 동아리원 4명, AI 스타트업에 취업 연계 (뤼튼 3)
 8. 1기 동아리원 김유빈, 클래스101에서 [프롬트 엔지니어링 강연](https://class101.net/ko/products/6464902abf9aed001562bcd1)
-9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
-10. 서울대학교 공과대학, 클라우드 GPU 일부 지원
+9.  [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
+10.   서울대학교 공과대학, 클라우드 GPU 일부 지원
 11. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
 
 ### 👀 집중 연구 분야
