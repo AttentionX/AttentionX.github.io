@@ -6,6 +6,7 @@
 저희는 LLM과 NLP에 관한 최신 논문과 분야의 흐름을 공부하고 논의하면서 NLP 프로덕트 개발과 연구를 하는 조직입니다!
 
 ## 🔥 2기 모집 (7/2 마감) 🔥 
+- 2기 Focus: Multimodal Models
 - [2기 모집 안내](https://skillful-houseboat-70c.notion.site/AttentionX-NLP-Group-2-540a6298e16149409c078d88d3684bd6)
 - [지원 링크](https://forms.gle/ZqNS6JUCp47V6pyz6)
 
