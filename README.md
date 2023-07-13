@@ -37,12 +37,12 @@
 2. [2기 멤버](https://eager-rest-e73.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
 
 
-### 3. 💬 스터디 세션 (논문 리뷰)
+### 💬 스터디 세션 (논문 리뷰)
 - 매주 화요일 논문 리뷰 진행
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 
-### 4. 💫 메인 프로젝트
+### 💫 메인 프로젝트
 1. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
 3. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share): Kakao Document Assistant
