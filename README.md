@@ -27,9 +27,9 @@
     2. Instruction Tuning
     3. Visual Language Model (LLaVA, LENS, Video-LLaMA)
 3. Multimodal Generative Model
-    1. 3D
-    2. Video
-    3. CoDi
+    1. Image
+    2. 3D
+    3. Video
 
 
 ### 👨‍👨‍👧‍👧 멤버
