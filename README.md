@@ -42,15 +42,16 @@
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 
+### 🔬 1기 연구 프로젝트
+1. [Orion: Knowledge Editing via PEFT](https://huggingface.co/AttentionX/Orion/blob/main/README.md)
+
+
 ### 💫 1기 애플리케이션 프로젝트
 1. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
 3. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share): Kakao Document Assistant
 4. [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==): Make Everything Memorizable
 
-
-### 5. 🔬 1기 연구 프로젝트
-1. [Orion: Knowledge Editing via PEFT](https://huggingface.co/AttentionX/Orion/blob/main/README.md)
 
 ### 🤵 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
