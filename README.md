@@ -42,18 +42,14 @@
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 
-### 💫 메인 프로젝트
+### 💫 1기 애플리케이션 프로젝트
 1. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
 2. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
 3. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share): Kakao Document Assistant
 4. [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==): Make Everything Memorizable
-5. [Teacher Nudge](https://youtu.be/Znfsy19kcQI): 학습자 메모 기반 확장형 + 대화형 영어 공부 서비스
-6. [Nonskip Classic](https://youtu.be/D-e83xHWDYQ): Your reading copilot
-7. Chat Assistant: Retrieval & Action Research
 
 
-
-### 5. 🔬 연구 프로젝트
+### 5. 🔬 1기 연구 프로젝트
 1. [Orion: Knowledge Editing via PEFT](https://huggingface.co/AttentionX/Orion/blob/main/README.md)
 
 ### 🤵 게스트
@@ -74,5 +70,5 @@
 - [유투브](https://www.youtube.com/@attentionx)
 
 
-### ☎️ Contact (파트너쉽/후원 문의)
+### ☎️ Contact (파트너쉽 문의)
 - attentionx.ai@gmail.com
