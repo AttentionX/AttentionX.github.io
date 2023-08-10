@@ -47,16 +47,12 @@
 
 ### 🤵 게스트
 <details>
-<summary>Click to toggle contents of `code`</summary>
-
-```
-CODE!
-```
-</details>
-
+<summary>1기 게스트</summary>
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
 2. [팀러너스](https://www.learners.company/) 맹주성 대표님
 3. [링글](https://www.ringleplus.com/ko/student/landing/team) 이성파 대표님
+</details>
+
 
 
 ### 📚 자료실
