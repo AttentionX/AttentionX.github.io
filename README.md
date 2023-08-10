@@ -42,18 +42,8 @@
 - 매주 화요일 논문 리뷰 진행
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
-
-### 🔬 1기 연구
-1. [Orion: Knowledge Editing via PEFT](https://huggingface.co/AttentionX/Orion/blob/main/README.md)
-
-
-### 💫 1기 프로젝트
-1. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): Agent Evaluation (AGI House, Agent Hackathon Winner)
-2. [NALY](https://naly.ai/): Not your another digital assistant, It's time to meet your friend
-3. [LAWI](https://bar-gpt.web.app/#/): Legal AI for Everyone
-4. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share): Kakao Document Assistant
-5. [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==): Make Everything Memorizable
-
+### 전 기수 활동
+1. [1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 
 ### 🤵 게스트
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
