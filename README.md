@@ -8,7 +8,7 @@
 
 ### ✨ Achievements
 1. 연구팀, LLaMA 기반 자체 모델, [Orion](https://huggingface.co/AttentionX/Orion/blob/main/README.md), 학습 및 추후 공개 ([HuggingFace](https://huggingface.co/AttentionX/Orion/blob/main/README.md), EMNLP 워크샵 준비)
-2. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): AGI House Agent 해커톤 우승
+2. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
 3. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
 4. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
 5. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
