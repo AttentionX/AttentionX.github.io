@@ -46,7 +46,7 @@
 1. [1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 
 ### 🤵 게스트
-<details>
+<1기 게스트>
 <summary>Click to toggle contents of `code`</summary>
 
 ```
