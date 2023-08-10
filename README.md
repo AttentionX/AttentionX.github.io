@@ -43,12 +43,12 @@
 - [논문 리뷰 발표 기록](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
 
 ### 전 기수 활동
-1. [1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
+[1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 
 ### 🤵 게스트
 <details>
 <summary>1기 게스트</summary>
-  1. [뤼튼](https://wrtn.ai/) 이세영 대표님
+  1. <a href="https://wrtn.ai/">뤼튼</a> 이세영 대표님
     <br>
   2. [팀러너스](https://www.learners.company/) 맹주성 대표님
     <br>
