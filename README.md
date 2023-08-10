@@ -46,6 +46,14 @@
 1. [1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 
 ### 🤵 게스트
+<details>
+<summary>Click to toggle contents of `code`</summary>
+
+```
+CODE!
+```
+</details>
+
 1. [뤼튼](https://wrtn.ai/) 이세영 대표님
 2. [팀러너스](https://www.learners.company/) 맹주성 대표님
 3. [링글](https://www.ringleplus.com/ko/student/landing/team) 이성파 대표님
