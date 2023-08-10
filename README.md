@@ -7,7 +7,7 @@
 
 
 ### ✨ Achievements
-1. 연구팀, llama 기반 자체 모델, [Orion](https://huggingface.co/AttentionX/Orion/blob/main/README.md), 학습 및 추후 공개 ([HuggingFace](https://huggingface.co/AttentionX/Orion/blob/main/README.md), EMNLP 워크샵 준비)
+1. 연구팀, LLaMA 기반 자체 모델, [Orion](https://huggingface.co/AttentionX/Orion/blob/main/README.md), 학습 및 추후 공개 ([HuggingFace](https://huggingface.co/AttentionX/Orion/blob/main/README.md), EMNLP 워크샵 준비)
 2. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): LLM Agent Evaluation, AGI House Agent 해커톤 우승
 3. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
 4. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
@@ -32,13 +32,19 @@
     2. 3D
     3. Video
 
+### ⚒️ 2기 프로젝트
+1. Retrieval Augmented Generation (김민찬)
+2. Memory-enhanced Agent (정순호, 박준영)
+3. Multimodal Generation (김성경, 최창호)
+4. Video-llama-Drive (박성연)
+5. Self-Learning Agents (이아담)
+6. GPTeacher (안영진)
+7. 하이안, 화면 해설 솔루션 (오주상)
+8. Lighter AI (양길모)
 
 ### 👨‍👨‍👧‍👧 멤버
 1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
 2. [2기 멤버](https://eager-rest-e73.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
-
-### 전 기수 활동
-[1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 
 ### 🤵 게스트
 <details>
@@ -59,7 +65,8 @@
     6. 해치랩스 김민석님
 </details>
 
-
+### 🔖 전 기수 활동
+[1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 
 ### 📚 자료실
 1. [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
