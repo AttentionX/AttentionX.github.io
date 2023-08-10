@@ -54,6 +54,15 @@
     <br>
   3. <a href="https://www.ringleplus.com/ko/student/landing/team">링글</a> 이성파 대표님
 </details>
+<details>
+<summary>2기 게스트</summary>
+    1. Krew Capital 송민재님, 민병훈님 <br>
+    2. ex-AWS 김준희님 <br>
+    3. 띵스플로우 윤희상님 <br>
+    4. 코르카 이태호님 <br>
+    5. 뤼튼 현지웅님 <br>
+    6. 해치랩스 co-founder 김민석님
+</details>
 
 
 
