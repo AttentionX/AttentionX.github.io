@@ -9,14 +9,15 @@
 ### ✨ Achievements
 1. 1기 연구 프로젝트, InstructBLIP PEFT, NeurIPS Workshop accept (서울대학교 이재윤 교수님 교신 저자)
 2. 1기 스타트업팀 (이유종), [Krew Capital](https://krewcapital.com/) 투자 유치
-3. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
-4. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
-5. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
-6. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
-7. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
-8. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
-10.   서울대학교 공과대학, 클라우드 GPU 지원
+3. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 최우수상 (500만원 수상)
+4. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
+5. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
+6. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
+7. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
+8. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
+9. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
+10. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
+11.   서울대학교 공과대학, 클라우드 GPU 지원
 
 ### 👀 집중 분야
 1. Multimodal LLM
