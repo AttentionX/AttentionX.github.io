@@ -38,7 +38,7 @@
 6. GPTeacher (안영진)
 7. Video Captioning (오주상)
 8. Lighter AI (양길모)
-9. Audio Synthesis via Image Inpaiting (김성경, 이아담)
+9. Audio Synthesis (김성경, 이아담)
 
 ### 👨‍👨‍👧‍👧 멤버
 1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
