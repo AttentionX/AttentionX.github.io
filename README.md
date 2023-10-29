@@ -34,7 +34,7 @@
 2. Memory-enhanced Agent (정순호, 박준영)
 3. 3D Generation (김성경, 최창호)
 4. Video-llama-Drive (박성연)
-5. 4D-Pose Language Model (이아담)
+5. 4D-Pose Video Language Model (이아담)
 6. GPTeacher (안영진)
 7. Video Captioning (오주상)
 8. Lighter AI (양길모)
