@@ -1,4 +1,4 @@
-# AttentionX: NLP Group
+# AttentionX: AI Research Group
 ![Logo](https://i.ibb.co/jJJV9fs/1686903632416.jpg)
 
 ## 💡 동아리 소개
