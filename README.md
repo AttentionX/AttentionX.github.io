@@ -7,16 +7,17 @@
 
 
 ### ✨ Achievements
-1. 연구팀, LLaMA 기반 자체 모델, [Orion](https://huggingface.co/AttentionX/Orion/blob/main/README.md), 학습 및 추후 공개 ([HuggingFace](https://huggingface.co/AttentionX/Orion/blob/main/README.md), EMNLP 워크샵 준비)
-2. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
-3. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
-4. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
-5. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
-6. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
-7. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-8. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
-9.   서울대학교 공과대학, 클라우드 GPU 지원
-10. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
+1. 1기 연구 프로젝트, InstructBLIP PEFT, NeurIPS Workshop accept
+2. 1기 스타트업팀, [Krew Capital](https://krewcapital.com/) 투자 유치
+3. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
+4. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
+5. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
+6. 뤼튼 지원, 동아리 전원 [Gen AI Asia](https://www.genai.asia) VIP 초대
+7. 1기 동아리원 김유빈, Gen AI Asia에서 [Chris Yeh와의 Fireside Chat 진행](https://www.youtube.com/watch?v=GhUD2zln5Fo)
+8. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
+9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
+10.   서울대학교 공과대학, 클라우드 GPU 지원
+11. [Simply AI](https://youtube.com/shorts/44zzn6vfRaI?feature=share), [Memorizable](https://www.instagram.com/reel/CtbaBUGulva/?igshid=MzRlODBiNWFlZA==) demo 공개
 
 ### 👀 집중 분야
 1. NLP Application
