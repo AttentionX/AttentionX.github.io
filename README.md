@@ -19,28 +19,27 @@
 10.   서울대학교 공과대학, 클라우드 GPU 지원
 
 ### 👀 집중 분야
-1. NLP Application
-    1. Prompt (Chain of Thought, In-context Learning)
-    2. Embedding
-    3. Agent
+1. Multimodal LLM
 2. Language Model
     1. Parameter Efficient Fine-tuning (PEFT)
-    2. Instruction Tuning
-    3. Visual Language Model (LLaVA, LENS, Video-LLaMA)
-3. Multimodal Generative Model
-    1. Image
+    2. In-context Retrieval
+    3. Visual Language Model (LLaVA, InstructBLIP, Video-LLaMA)
+    4. Agent
+3. Generative Models
+    1. Audio
     2. 3D
     3. Video
 
 ### ⚒️ 2기 프로젝트
 1. Retrieval Augmented Generation (김민찬)
 2. Memory-enhanced Agent (정순호, 박준영)
-3. Multimodal Generation (김성경, 최창호)
+3. 3D Generation (김성경, 최창호)
 4. Video-llama-Drive (박성연)
-5. Self-Learning Agents (이아담)
+5. Gym-GPT (이아담)
 6. GPTeacher (안영진)
 7. Video Captioning (오주상)
 8. Lighter AI (양길모)
+9. Audio Synthesis via Image Inpaiting (김성경, 이아담)
 
 ### 👨‍👨‍👧‍👧 멤버
 1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
