@@ -8,7 +8,7 @@
 
 ### ✨ Achievements
 1. 1기 연구 프로젝트, InstructBLIP PEFT, NeurIPS Workshop accept (서울대학교 이재윤 교수님 교신 저자)
-2. 1기 스타트업팀, [Krew Capital](https://krewcapital.com/) 투자 유치
+2. 1기 스타트업팀 (이유종), [Krew Capital](https://krewcapital.com/) 투자 유치
 3. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
 4. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
 5. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
