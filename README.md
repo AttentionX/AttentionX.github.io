@@ -20,7 +20,6 @@
 
 ### 👀 집중 분야
 1. Multimodal LLM
-2. Language Model
     1. Parameter Efficient Fine-tuning (PEFT)
     2. In-context Retrieval
     3. Visual Language Model (LLaVA, InstructBLIP, Video-LLaMA)
