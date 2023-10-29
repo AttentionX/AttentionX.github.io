@@ -9,7 +9,7 @@
 ### ✨ Achievements
 1. 1기 연구 프로젝트, InstructBLIP PEFT, NeurIPS Workshop accept (서울대학교 이재윤 교수님 교신 저자)
 2. 1기 스타트업팀 (이유종), [Krew Capital](https://krewcapital.com/) 투자 유치
-3. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 최우수상 (500만원 수상)
+3. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
 4. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
 5. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
 6. NALY 팀, 프리오더 800만원 기록, [디스콰이엇 런칭](https://disquiet.io/@marc/makerlog/8017)
