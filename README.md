@@ -1,5 +1,4 @@
-# AttentionX: AI Research Group
-![Logo](https://i.ibb.co/jJJV9fs/1686903632416.jpg)
+# <img width="24" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research Group 
 
 ## 💡 동아리 소개
 안녕하세요 2022년 12월부터 시작되어 서울대학교, 카이스트, 외국 대학교 학부생들 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
@@ -7,8 +6,8 @@
 
 
 ### ✨ Achievements
-1. 1기 연구 프로젝트, InstructBLIP PEFT, NeurIPS Workshop accept (서울대학교 이재윤 교수님 교신 저자)
-2. 2기 Video-LLaMA Drive팀, WACV Workshop accept (서울대학교 김동규 교수님 교신 저자)
+1. 1기 연구 프로젝트, [InstructBLIP PEFT, NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/papers/paper_88.pdf) accept (서울대학교 이재윤 교수님 교신 저자)
+2. 2기 Video-LLaMA Drive팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
 3. 1기 스타트업 2팀 ([이유종](https://github.com/repllabs/fastrepl), [Weavel](https://www.promptmodel.run)), [Krew Capital](https://krewcapital.com/) 투자 유치
 4. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
 5. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
