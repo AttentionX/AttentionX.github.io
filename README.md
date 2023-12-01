@@ -10,7 +10,7 @@
 ### ✨ Achievements
 1. 1기 연구 프로젝트, [InstructBLIP PEFT, NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
 2. 2기 Video-LLaMA Drive팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
-3. 1기 스타트업 2팀 ([이유종](https://github.com/repllabs/fastrepl), [Weavel](https://www.promptmodel.run)), [Krew Capital](https://krewcapital.com/) 투자 유치
+3. 1기 스타트업 2팀 ([이유종](https://fastrepl.com), [Weavel](https://www.promptmodel.run)), [Krew Capital](https://krewcapital.com/) 투자 유치
 4. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
 5. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
 6. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
