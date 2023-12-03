@@ -5,7 +5,7 @@
     - Visual Language Model
     - In-context Learning
     - Face 3D MM Generation
-    - Video Generation/Editing
+    - Video Generation/Editing    
    (기타 LLM, 3D, 4D, Audio 관련 연구 주제 환영)
 2. 모집: 12/16~12/31
 
