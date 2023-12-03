@@ -3,7 +3,7 @@
 ## 3기 안내
 1. 연구 주제
     - Visual Language Model
-    - In-context Learning (Example Retreival)
+    - In-context Learning
     - Face 3D MM Generation
     - Video Generation/Editing
 2. 모집: 12/16~12/31
