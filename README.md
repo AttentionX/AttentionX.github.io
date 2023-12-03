@@ -1,11 +1,12 @@
 # <img width="24" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
 
 ## 3기 안내
-1. 연구 주제
+1. 연구 프로젝트들
     - Visual Language Model
     - In-context Learning
     - Face 3D MM Generation
     - Video Generation/Editing
+   (기타 LLM, 3D, 4D, Audio 관련 연구 주제 환영)
 2. 모집: 12/16~12/31
 
 ## 💡 동아리 소개
