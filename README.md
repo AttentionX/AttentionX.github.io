@@ -25,6 +25,7 @@
 8. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
 9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
 10. 서울대학교 공과대학, 클라우드 GPU 지원
+11. 매스프레소, Multimodal LLM 연구비 지원
 
 ### 👀 집중 분야
 1. Multimodal LLM
