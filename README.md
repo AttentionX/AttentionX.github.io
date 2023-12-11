@@ -95,5 +95,5 @@
 - [유투브](https://www.youtube.com/@attentionx)
 
 
-### ☎️ Contact (파트너쉽 문의)
+### ☎️ Contact
 - attentionx.ai@gmail.com
