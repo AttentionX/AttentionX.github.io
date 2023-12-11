@@ -1,13 +1,15 @@
 # <img width="24" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
 
 ## 3기 안내
-1. 연구 프로젝트들
+1. 모집
+   1. [3기 모집 안내](https://eager-rest-e73.notion.site/AttentionX-3-d45957af240d49f2bf33c75461fa6e40?pvs=4)
+   2. 모집 기간: 12/16~12/31
+2. 연구 프로젝트들
     - Visual Language Model
     - In-context Learning
     - Face 3D MM Generation
     - Video Generation/Editing    
    (기타 LLM, 3D, 4D, Audio 관련 연구 주제 환영)
-2. 모집: 12/16~12/31
 
 ## 💡 동아리 소개
 안녕하세요 2022년 12월부터 시작되어 서울대학교, 카이스트, 외국 대학교 학부생들 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
