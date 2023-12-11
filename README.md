@@ -5,10 +5,10 @@
    1. [3기 모집 안내](https://eager-rest-e73.notion.site/AttentionX-3-d45957af240d49f2bf33c75461fa6e40?pvs=4)
    2. 모집 기간: 12/16~12/31
 2. 연구 프로젝트들
-    - Visual Language Model
-    - In-context Learning
-    - Face 3D MM Generation
-    - Video Generation/Editing    
+    - Multimodal Language Model (Autonomous Driving)
+    - In-context Learning (Example Retrieval)
+    - 3D Generation (Face 3D MM)
+    - Video Generation (Conditional Video Editing)   
    (기타 LLM, 3D, 4D, Audio 관련 연구 주제 환영)
 
 ## 💡 동아리 소개
@@ -17,8 +17,10 @@
 
 
 ### ✨ Achievements
-1. 1기 연구 프로젝트, InstructBLIP PEFT, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자; 후속 연구 NAACL 2024 준비)
-2. 2기 [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자; 후속 연구 ICML 2024 준비)
+1. 1기 연구 프로젝트, InstructBLIP PEFT, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
+   - 후속 연구 NAACL 2024 준비
+2. 2기 [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
+   - 후속 연구 ICML 2024 준비
 3. 1기 스타트업 2팀 ([fastrepl](https://fastrepl.com), [Weavel](https://www.promptmodel.run)), [Krew Capital](https://krewcapital.com/) 투자 유치
 4. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
 5. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
@@ -27,7 +29,7 @@
 8. 오픈소스 Contribution: lit-llama [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
 9. [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
 10. 서울대학교 공과대학, 클라우드 GPU 지원
-11. 매스프레소, Multimodal LLM 연구비 지원
+11. 매스프레소, Multimodal LLM팀 연구비 지원
 
 ### 👀 집중 분야
 1. Multimodal LLM
@@ -49,7 +51,6 @@
 6. GPTeacher (안영진)
 7. Video Captioning (오주상)
 8. Lighter AI (양길모)
-9. Audio Synthesis (김성경, 이아담)
 
 ### 👨‍👨‍👧‍👧 멤버
 1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
