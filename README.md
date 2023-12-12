@@ -16,7 +16,7 @@
 저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 최신 논문과 분야의 흐름을 공부하고 논의하면서 연구와 프로덕트 개발을 하는 조직입니다!
 
 
-### ✨ Achievements
+### ✨ 1~2기 활동 요약
 1. 1기 연구 프로젝트, InstructBLIP PEFT, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
    - 후속 연구 NAACL 2024 준비
 2. 2기 [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
