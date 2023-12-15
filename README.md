@@ -5,7 +5,7 @@
    1. [3기 모집 안내](https://eager-rest-e73.notion.site/AttentionX-3-d45957af240d49f2bf33c75461fa6e40?pvs=4)
    2. 모집 기간: 12/16~12/31
 2. 연구 프로젝트들
-    - Multimodal Language Model (Driving Assistant)
+    - Multimodal Language Model (Autonomous Driving Assistant)
     - In-context Learning (Example Retrieval)
     - 3D Generation (Face 3D MM)
     - Video Generation (Conditional Video Editing)   
@@ -30,10 +30,10 @@
    3. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
 5. 프로덕트 개발 & 런칭
    - [NALY](https://disquiet.io/@marc/makerlog/8017) (스마트 스피커): 프리오더 800만원 기록
-6. 오픈소스 Contribution
-   - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-7. 오픈소스 Project
+6. 오픈소스 Project
     - [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
+7. 오픈소스 Contribution
+   - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
 8. 서울대학교 공과대학, 클라우드 GPU 지원
 9. 매스프레소, Multimodal LLM팀 연구비 지원
 
