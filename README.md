@@ -13,7 +13,7 @@
 
 ## 💡 동아리 소개
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 학부생들 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
-저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 최신 논문과 분야의 흐름을 공부하고 논의하면서 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발을 하는 조직입니다!
+저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발을 하는 조직입니다!
 
 
 ### ✨ 1~2기 활동 요약
