@@ -1,10 +1,9 @@
-# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
+# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Application Group 
 
 ## 3기 안내
 1. 모집
    1. [3기 모집 안내](https://eager-rest-e73.notion.site/AttentionX-3-d45957af240d49f2bf33c75461fa6e40?pvs=4)
-   2. 🇺🇸[해외 대학생 모집](https://eager-rest-e73.notion.site/c6c34f93aeed49d4a7b85d889652d069?pvs=4)!
-   3. 모집 기간: 12/16~12/31
+   2. 모집 기간: 12/16~12/31
 2. 연구 프로젝트들
     - Multimodal Language Model (Autonomous Driving Assistant)
     - In-context Learning (Example Retrieval)
