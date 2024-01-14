@@ -8,7 +8,6 @@
     - InstructBLIP Explainability
     - 3D Generation (Face 3D MM)
     - Video Generation (Conditional Video Editing)
-    - 기타: LLM, 3D, 4D, Audio, RL, Bio ML 관련 연구 주제 환영
 
 ## 💡 동아리 소개
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 학부생들 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
