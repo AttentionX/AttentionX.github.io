@@ -1,14 +1,13 @@
 # <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Application Group 
 
 ## 3기 안내
-1. 모집
-   1. [3기 모집 안내](https://eager-rest-e73.notion.site/AttentionX-3-d45957af240d49f2bf33c75461fa6e40?pvs=4)
-   2. 모집 기간: 12/16~12/31
-2. 연구 프로젝트들
+1. 연구 프로젝트들
     - Multimodal Language Model (Autonomous Driving Assistant)
+    - Math LLM (매스프레소 협업)
     - In-context Learning (Example Retrieval)
+    - InstructBLIP Explainability
     - 3D Generation (Face 3D MM)
-    - Video Generation (Conditional Video Editing)   
+    - Video Generation (Conditional Video Editing)
     - 기타: LLM, 3D, 4D, Audio, RL, Bio ML 관련 연구 주제 환영
 
 ## 💡 동아리 소개
@@ -48,19 +47,10 @@
     2. 3D
     3. Video
 
-### ⚒️ 2기 프로젝트
-1. Retrieval Augmented Generation (김민찬)
-2. Memory-enhanced Agent (정순호, 박준영)
-3. 3D Generation (김성경, 최창호)
-4. Video-llama-Drive (박성연)
-5. 4D-Pose Video Language Model (이아담)
-6. GPTeacher (안영진)
-7. Video Captioning (오주상)
-8. Lighter AI (양길모)
-
 ### 👨‍👨‍👧‍👧 멤버
 1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
 2. [2기 멤버](https://eager-rest-e73.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
+3. [3기 멤버](https://eager-rest-e73.notion.site/AttentionX-3-936500ae929c487b82bb5d5cbbedd07f?pvs=74)
 
 ### 🤵 게스트
 <details>
@@ -83,6 +73,7 @@
 
 ### 🔖 전 기수 활동
 - [1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
+- [2기 활동](https://eager-rest-e73.notion.site/2-142fe495a46c4875bc1bef11ac2739f6?pvs=4)
 
 ### 📚 자료실
 1. [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
