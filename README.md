@@ -5,9 +5,7 @@
     - Multimodal Language Model (Autonomous Driving Assistant)
     - Math LLM (매스프레소 협업)
     - In-context Learning (Example Retrieval)
-    - InstructBLIP Explainability
-    - 3D Generation (Face 3D MM)
-    - Video Generation (Conditional Video Editing)
+    - 3D Generation (3D MM)
 
 ## 💡 동아리 소개
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 학부생/대학생과 병특, ML 현직자 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
@@ -16,9 +14,7 @@
 
 ### ✨ 1~2기 활동 요약
 1. 1기 연구 프로젝트, InstructBLIP PEFT, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
-   - 후속 연구 NAACL 2024 준비
 2. 2기 [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
-   - 후속 연구 ICML 2024 준비
 3. 1기 스타트업 2팀, [Krew Capital](https://krewcapital.com/) 투자 유치
    - [fastrepl](https://fastrepl.com)
    - [Weavel](https://www.promptmodel.run)
