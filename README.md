@@ -1,4 +1,4 @@
-# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Application Group 
+# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
 
 ## 3기 안내
 1. 연구 프로젝트들
