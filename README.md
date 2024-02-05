@@ -1,16 +1,27 @@
 # <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
 
-## 3기 안내
-1. 연구 프로젝트들
-    - Multimodal Language Model (Autonomous Driving Assistant)
-    - Math LLM (매스프레소 협업)
-    - In-context Learning (Example Retrieval)
-    - 3D Generation (3D MM)
-
 ## 💡 동아리 소개
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU) 학부생/대학생과 병특, ML 현직자 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
 저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발을 하는 조직입니다!
 
+### 👀 집중 분야
+1. LLM
+    1. Parameter Efficient Fine-tuning (PEFT)
+    2. In-context Learning
+    3. Multimodal LLMs
+    4. Math LLM
+    5. Agent
+    6. LLM jailbreaking
+2. Generative Models
+    1. Music Generation
+    2. Controlled 3D Generation
+    3. Video Generation
+    4. 4D Generation with Dynamic Gaussians
+3. Reinforcement Learning
+    1. Robot safety reward model
+    2. Robotics Locomotion
+4. Video
+   1. Video Highlighting
 
 ### ✨ 1~2기 활동 요약
 1. 1기 연구 프로젝트, InstructBLIP PEFT, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
@@ -31,16 +42,21 @@
 8. 서울대학교 공과대학, 클라우드 GPU 지원
 9. 매스프레소, Multimodal LLM팀 연구비 지원
 
-### 👀 집중 분야
-1. Multimodal LLM
-    1. Parameter Efficient Fine-tuning (PEFT)
-    2. In-context Retrieval
-    3. Visual Language Model (LLaVA, InstructBLIP, Video-LLaMA)
-    4. Agent
-3. Generative Models
-    1. Audio
-    2. 3D
-    3. Video
+## 3기 프로젝트들
+1. Autonomous Driving Assistant (박성연)
+2. Math LLM (조주환, 매스프레소 협업)
+3. In-Context Knowledge Distillation (김민찬)
+4. Controlled 3D Generation (3D MM) (김성경)
+5. Cache Merging & Spend Less on V.A.T (안영진)
+6. 3D Diffusion RLHF (이아담)
+7. LLM jailbreaking 공격/방어 (유상윤)
+8. Video Highlight/Captioning (한동훈)
+9. Non-invasive biopotential decoding (김도엽)
+10. Robot safety reward model (홍순범)
+11. Music Generation Research (고계훈)
+12. Plug-and-Play Knowledge Injection for LLMs (박은환)
+13. Resolve LLM ambiguity by throwing questions (석주영)
+
 
 ### 👨‍👨‍👧‍👧 멤버
 1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
