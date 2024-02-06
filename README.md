@@ -4,7 +4,7 @@
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU) 학부생/대학원생과 병특, ML 현직자 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
 저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발을 하는 조직입니다!
 
-### 👀 집중 분야
+### 👀 연구 분야
 1. LLM
     1. Parameter Efficient Fine-tuning (PEFT)
     2. In-context Learning
