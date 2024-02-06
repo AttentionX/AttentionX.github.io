@@ -21,7 +21,7 @@
 3. Reinforcement Learning
     1. Robot safety reward model
     2. Robotics Locomotion
-    3. Human Preference Tuning with Online Reinforcement Learning
+    3. Human Preference Alignment with Online Reinforcement Learning
 4. Video
    1. Video Action Segmentation & Retrieval
 
