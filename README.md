@@ -44,7 +44,7 @@
    - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
 9. 서울대학교 공과대학, 클라우드 GPU 지원
 
-## 🔬 3기 프로젝트들
+### 🔬 3기 프로젝트들
 1. Autonomous Driving Assistant (박성연)
 2. Math LLM (조주환, 매스프레소 협업)
 3. In-Context Knowledge Distillation (김민찬)
