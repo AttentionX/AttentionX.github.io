@@ -10,8 +10,7 @@
     2. In-context Learning
     3. Multimodal LLMs
     4. Math LLM
-    5. Agent
-    6. LLM jailbreaking
+    5. LLM jailbreaking
 2. Generative Models
     1. Music Generation
     2. Controlled 3D Generation
