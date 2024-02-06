@@ -31,18 +31,18 @@
 3. 1기 스타트업 2팀, [Krew Capital](https://krewcapital.com/) 투자 유치
    - [fastrepl](https://fastrepl.com)
    - [Weavel](https://www.promptmodel.run)
-4. 해커톤 성과
+4. 매스프레소와 협업 Math LLM 연구 프로젝트 진행
+5. 해커톤 성과
    1. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
    2. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
    3. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
-5. 프로덕트 개발 & 런칭
+6. 프로덕트 개발 & 런칭
    - [NALY](https://disquiet.io/@marc/makerlog/8017) (스마트 스피커): 프리오더 800만원 기록
-6. 오픈소스 Project
+7. 오픈소스 Project
     - [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
-7. 오픈소스 Contribution
+8. 오픈소스 Contribution
    - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-8. 서울대학교 공과대학, 클라우드 GPU 지원
-9. 매스프레소, Multimodal LLM팀 연구비 지원
+9. 서울대학교 공과대학, 클라우드 GPU 지원
 
 ## 3기 프로젝트들
 1. Autonomous Driving Assistant (박성연)
