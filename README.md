@@ -16,10 +16,12 @@
     1. Music Generation
     2. Controlled 3D Generation
     3. Video Generation
-    4. 4D Generation with Dynamic Gaussians
+    4. 4D Diffusion
+    5. Dynamic Gaussians
 3. Reinforcement Learning
     1. Robot safety reward model
     2. Robotics Locomotion
+    3. Human Preference Tuning with Online Reinforcement Learning
 4. Video
    1. Video Highlighting
 
