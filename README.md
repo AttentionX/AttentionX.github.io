@@ -23,7 +23,7 @@
     2. Robotics Locomotion
     3. Human Preference Tuning with Online Reinforcement Learning
 4. Video
-   1. Video Highlighting
+   1. Video Action Segmentation & Retrieval
 
 ### ✨ 1~2기 활동 요약
 1. 1기 연구 프로젝트, InstructBLIP PEFT, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
