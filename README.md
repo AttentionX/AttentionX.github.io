@@ -4,7 +4,7 @@
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU) 학부생/대학원생과 병특, ML 현직자 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
 저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발을 하는 조직입니다!
 
-### 👀 연구 분야
+### 📚 연구 분야
 1. LLM
     1. Parameter Efficient Fine-tuning (PEFT)
     2. In-context Learning
@@ -44,7 +44,7 @@
    - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
 9. 서울대학교 공과대학, 클라우드 GPU 지원
 
-## 3기 프로젝트들
+## 🔬 3기 프로젝트들
 1. Autonomous Driving Assistant (박성연)
 2. Math LLM (조주환, 매스프레소 협업)
 3. In-Context Knowledge Distillation (김민찬)
