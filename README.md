@@ -57,6 +57,7 @@
 11. Music Generation Research (고계훈)
 12. Plug-and-Play Knowledge Injection for LLMs (박은환)
 13. Resolve LLM ambiguity by throwing questions (석주영)
+14. Reflective Learning (신승윤)
 
 
 ### 👨‍👨‍👧‍👧 멤버
