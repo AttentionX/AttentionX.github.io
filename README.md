@@ -49,7 +49,7 @@
 3. In-Context Knowledge Distillation (김민찬)
 4. Controlled 3D Generation (3D MM) (김성경)
 5. Cache Merging & Spend Less on V.A.T (안영진)
-6. 3D Generation/Rendering (이아담)
+6. Dynamic 3D Generation (이아담)
 7. LLM jailbreaking 공격/방어 (유상윤)
 8. Video Highlight/Captioning (한동훈)
 9. Non-invasive biopotential decoding (김도엽)
