@@ -44,12 +44,12 @@
 9. 서울대학교 공과대학, 클라우드 GPU 지원
 
 ### 🔬 3기 프로젝트들
-1. Autonomous Driving Assistant (박성연)
+1. Autonomous Driving Assistant (박성연, 고려대 김진규 교수님 지도)
 2. Math LLM (조주환, 매스프레소 협업)
 3. In-Context Knowledge Distillation (김민찬)
-4. Controlled 3D Generation (3D MM) (김성경)
+4. Controlled 3D Generation (3D MM) (김성경, 카이스트 성민혁 교수님 지도)
 5. Cache Merging & Spend Less on V.A.T (안영진)
-6. Dynamic 3D Generation (이아담)
+6. Dynamic 3D Generation (이아담, 고려대 김승룡 교수님 지도)
 7. LLM jailbreaking 공격/방어 (유상윤)
 8. Video Highlight/Captioning (한동훈)
 9. Non-invasive biopotential decoding (김도엽)
