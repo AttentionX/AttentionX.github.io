@@ -29,6 +29,7 @@
 3. 1기 스타트업 2팀, [Krew Capital](https://krewcapital.com/) 투자 유치
    - [fastrepl](https://fastrepl.com)
    - [Weavel](https://www.promptmodel.run)
+   - 2팀, YC W24 인터뷰
 4. 매스프레소와 협업, Math LLM 연구 프로젝트 진행
 5. 해커톤 성과
    1. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
