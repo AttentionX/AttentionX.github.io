@@ -12,7 +12,7 @@
 
 ## 💡 동아리 소개
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU, Oxford) 학부생/대학원생과 ML 현직자들이 활동해온 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.    
-저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발과 스타트업 시작을 도와주는 조직입니다!
+저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발과 스타트업 빌딩을 도와주는 조직입니다!
 
 ### 📚 연구 분야
 1. LLM
