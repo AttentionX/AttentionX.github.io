@@ -1,13 +1,11 @@
 # <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
 
-## ⭐ 동아리 목적
-1. 유니콘 AI 스타트업 양성
-
 ## ⭐ 동아리 목표/활동
 1. 컨퍼런스 논문 Accept
 2. YC Accept
 3. Foundation Model 학습 & 오픈 소스 기여
 4. 산업 협력
+5. #### 최종 목표: 유니콘 AI 스타트업 양성
 
 
 ## 💡 동아리 소개
