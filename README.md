@@ -1,12 +1,18 @@
 # <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
 
 ## ⭐ 동아리 목적
+1. 유니콘 AI 스타트업 양성
+
+## ⭐ 동아리 목표/활동
 1. 컨퍼런스 논문 Accept
 2. YC Accept
+3. Foundation Model 학습 & 오픈 소스 기여
+4. 산업 협력
+
 
 ## 💡 동아리 소개
-안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU) 학부생/대학원생과 병특, ML 현직자 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.   
-저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발을 하는 조직입니다!
+안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU, Oxford) 학부생/대학원생과 병특, ML 현직자 위주로 구성된 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.    
+저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발과 스타트업 시작을 도와주는 조직입니다!
 
 ### 📚 연구 분야
 1. LLM
@@ -68,6 +74,9 @@
 1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
 2. [2기 멤버](https://eager-rest-e73.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
 3. [3기 멤버](https://eager-rest-e73.notion.site/AttentionX-3-936500ae929c487b82bb5d5cbbedd07f?pvs=74)
+
+### 멤버 요약
+저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU, Oxford) 출신의 연구자, 개발자 위주로 구성되어 있고 김건희, 서민준, 주재걸, 김영민, 황승원, Kwangwook Lee, Trevor Darrell, Chelsea Finn 교수님 랩 인턴과 석박사 분들이 활동해왔습니다! 연구 팀들은 성민혁, 이기민, 김승룡, 이재윤 교수님, 콴다 연구팀과 소통을 하거나 지도를 받는 팀들이 있고 프로덕트 팀들은 두 팀이 크루 캐피털에서 투자를 받고 두 팀이 YC W24 인터뷰를 보고 스타트업 대표님들과 소통하면서 프로덕트 개발을 하고 있습니다. (저희 조직과 fit이 맞을것 같은 분들은 언제든지 이메일로 연락주세요!)
 
 ### 🤵 게스트
 <details>
