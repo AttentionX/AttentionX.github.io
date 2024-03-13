@@ -72,10 +72,12 @@
 2. [2기 멤버](https://eager-rest-e73.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
 3. [3기 멤버](https://eager-rest-e73.notion.site/AttentionX-3-936500ae929c487b82bb5d5cbbedd07f?pvs=74)
 
-### 멤버 요약
+<details>
+<summary>멤버 소개</summary>
 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU, Oxford) 출신의 연구자, 개발자 위주로 구성되어 있고 김건희, 서민준, 주재걸, 김영민, 황승원, Kwangwook Lee, Trevor Darrell, Chelsea Finn 교수님 랩 인턴과 석박사 분들이 활동해왔습니다!    
 연구 팀들은 성민혁, 이기민, 김승룡, 이재윤 교수님, 콴다 연구팀과 소통을 하거나 지도를 받는 팀들이 있고 프로덕트 팀들은 두 팀이 크루 캐피털에서 투자를 받고 두 팀이 YC W24 인터뷰를 보고 스타트업 대표님들과 소통하면서 프로덕트 개발을 하고 있습니다.     
 (저희 조직과 fit이 맞을것 같은 분들은 언제든지 이메일로 연락주세요!)
+</details>
 
 ### 🤵 게스트
 <details>
