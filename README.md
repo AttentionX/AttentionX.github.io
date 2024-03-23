@@ -48,7 +48,7 @@
     - [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
 8. 오픈소스 Contribution
    - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-9. 서울대학교 공과대학, 클라우드 GPU 지원
+9. 서울대학교 공과대학, a100 클러스터 지원
 
 ### 🔬 3기 프로젝트들
 1. Autonomous Driving Assistant (박성연, 고려대 김진규 교수님 지도)
