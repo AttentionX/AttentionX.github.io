@@ -68,9 +68,9 @@
 
 
 ### 👨‍👨‍👧‍👧 멤버
-1. [1기 멤버](https://eager-rest-e73.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
-2. [2기 멤버](https://eager-rest-e73.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
-3. [3기 멤버](https://eager-rest-e73.notion.site/AttentionX-3-936500ae929c487b82bb5d5cbbedd07f?pvs=74)
+1. [1기 멤버](https://abecid.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
+2. [2기 멤버](https://abecid.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
+3. [3기 멤버](https://abecid.notion.site/AttentionX-3-936500ae929c487b82bb5d5cbbedd07f?pvs=4)
 
 <details>
 <summary>멤버 소개</summary>
@@ -99,8 +99,8 @@
 </details>
 
 ### 🔖 전 기수 활동
-- [1기 활동](https://eager-rest-e73.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
-- [2기 활동](https://eager-rest-e73.notion.site/2-142fe495a46c4875bc1bef11ac2739f6?pvs=4)
+- [1기 활동](https://abecid.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
+- [2기 활동](https://abecid.notion.site/2-142fe495a46c4875bc1bef11ac2739f6?pvs=4)
 
 ### 📚 자료실
 1. [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
