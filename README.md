@@ -11,44 +11,29 @@
 안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU, Oxford)의 학부생/대학원생들(김건희, 서민준, 이강욱 교수님 연구실)과 ML 현직자들(카카오 브레인, 크래프톤 등)이 활동해온 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.    
 저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발과 스타트업 빌딩을 하는 조직입니다!
 
-### 📚 연구 분야
-1. LLM
-    1. Parameter Efficient Fine-tuning (PEFT)
-    2. In-context Learning
-    3. Multimodal LLMs
-    4. Math LLM
-    5. LLM jailbreaking
-2. Generative Models
-    1. Music Generation
-    2. Controlled 3D Generation
-    3. Video Generation
-    4. 4D Diffusion
-    5. Dynamic Gaussians
-3. Reinforcement Learning
-   1. Robotics Locomotion
-   2. Human Preference Alignment with Online Reinforcement Learning
-4. Video
-   1. Video Point Tracking
-
-### ✨ 1~2기 활동 요약
-1. 1기 연구 프로젝트, InstructBLIP PEFT, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
-2. 2기 [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
-3. 1기 스타트업 2팀, [Krew Capital](https://krewcapital.com/) 투자 유치
-   - [fastrepl](https://fastrepl.com)
-   - [Weavel](https://www.promptmodel.run)
+### ✨ 2023년 활동 요약
+1. 논문 성과
+    - InstructBLIP PEFT팀, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
+    - [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
+2. 스타트업
+   - 1기 스타트업 2팀, [Krew Capital](https://krewcapital.com/) 투자 유치
+       - [fastrepl](https://fastrepl.com)
+       - [Weavel](https://www.promptmodel.run)
    - 2팀, YC W24 인터뷰
-4. 매스프레소와 협업, Math LLM 연구 프로젝트 진행
-5. 해커톤 성과
+3. 매스프레소와 협업, Math LLM 연구 프로젝트 진행
+4. 해커톤 성과
    1. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
    2. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
    3. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
-6. 프로덕트 개발 & 런칭
+5. 프로덕트 개발 & 런칭
    - [NALY](https://disquiet.io/@marc/makerlog/8017) (스마트 스피커): 프리오더 800만원 기록
-7. 오픈소스 Project
+   - [개인화 챗봇, 프로덕트 헌트 Product of the Day 3등](https://www.producthunt.com/products/is-it-you#is-it-you)
+6. 오픈소스 Project
     - [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
-8. 오픈소스 Contribution
+    - [InstructBLIP Fine-tuning](https://github.com/salesforce/LAVIS/issues/302#issuecomment-1931380335)
+7. 오픈소스 Contribution
    - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-9. 서울대학교 공과대학, GPU 클러스터 지원 (a100 32개 공동 사용)
+8. 서울대학교 공과대학, GPU 클러스터 지원 (a100 32개 공동 사용)
 
 ### 🔬 3기 프로젝트들
 1. Autonomous Driving Assistant (박성연, 고려대 김진규 교수님 지도)
