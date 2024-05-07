@@ -2,9 +2,8 @@
 
 ## 동아리 목표/활동
 1. 컨퍼런스 논문 Accept
-2. YC Accept
-3. 오픈 소스 기여
-4. AI 스타트업 양성
+2. 오픈 소스 기여
+3. AI 스타트업 양성
 
 
 ## 💡 동아리 소개
@@ -81,6 +80,12 @@
     4. 코르카 이태호님 <br>
     5. 뤼튼 현지웅님 <br>
     6. 해치랩스 김민석님
+</details>
+<details>
+<summary>3기 게스트</summary>
+    1. VRCrew 최성광 대표님 <br>
+    2. Shift-up 김태훈님 <br>
+    3. Beeble.ai 김훈 대표님 <br>
 </details>
 
 ### 🔖 전 기수 활동
