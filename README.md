@@ -1,6 +1,6 @@
 # <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research Group 
 
-## 동아리 목표/활동
+## 동아리 목표
 - 저희는 장기적으로 산업에서 임팩트가 있는 주제들을 연구하면서 AI 학계에 기여하고 스타트업을 양성하는 것이 목표입니다.
 - 단기적으로 성과를 내야하는 산업과, 산업 application과 거리가 있는 학계 연구의 단점들을 보완하면서 AI 커뮤니티에 orthogonal하고 유니크한 contribution을 하려고 합니다.
 
