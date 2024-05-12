@@ -1,46 +1,35 @@
-# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research & Startup Group 
+# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research Group 
 
 ## 동아리 목표/활동
-1. 컨퍼런스 논문 Accept
-2. 오픈 소스 기여
-3. AI 스타트업 양성
+- 저희는 장기적으로 산업에서 임팩트가 있는 주제들을 연구하면서 AI 학계에 기여하고 스타트업을 양성하는 것이 목표입니다.
+- 단기적으로 성과를 내야하는 산업과, 산업 application과 거리가 있는 학계 연구의 단점들을 보완하면서 AI 커뮤니티에 orthogonal하고 유니크한 contribution을 하려고 합니다.
 
 
 ## 💡 동아리 소개
-안녕하세요 저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU, Oxford)의 학부생/대학원생들(김건희, 서민준, 이강욱 교수님 연구실)과 ML 현직자들(카카오 브레인, 크래프톤 등)이 활동해온 개발자와 연구자, 스타트업 창업가들의 커뮤니티입니다.    
-저희는 LLM, Multimodal Language Model, Generative Model (3D, Audio, Video)에 관한 연구를 통해 논문 실적을 내고 연구 기반 프로덕트 개발과 스타트업 빌딩을 하는 조직입니다!
+- 안녕하세요 저희는 한국 (서울대학교, 카이스트)과 외국 대학교 (Berkeley, Stanford, CMU, Oxford)의 학부생/대학원생들과 ML 현직자들(카카오 브레인, 크래프톤, 트웰브랩스 등)이 활동왔으며
+- 다양한 연구실 - 서민준 (카이스트), 이기민 (카이스트), 김건희 (서울대), 김주호 (카이스트), 김영민 (서울대), 주재걸 (카이스트), 황승원 (서울대) 등 - 분들이 있어 여러 연구실 분들과 쉽게 교류하며 연구와 스타트업 준비를 하는 환경을 제공하려고 합니다.
 
-### ✨ 2023년 활동 요약
-1. 논문 성과
+
+### ✨ 활동 성과
+1. 연구
+    - 4D SDS팀, 김승룡 (고려대) 교수님 지도로 AAAI 2025 준비
+    - 3D Face팀, 성민혁 (카이스트) 교수님 지도로 AAAI 2025 준비
+    - VLM팀, 이재윤 (서울대) 교수님 지도로 ACL 2024 제출
     - InstructBLIP PEFT팀, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
     - [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
 2. 스타트업
-   - 1기 스타트업 2팀, [Krew Capital](https://krewcapital.com/) 투자 유치
-       - [fastrepl](https://fastrepl.com)
-       - [Weavel](https://www.promptmodel.run)
-   - 2팀, YC W24 인터뷰
-3. 매스프레소와 협업, Math LLM 연구 프로젝트 진행
-4. 해커톤 성과
-   1. Weavel 팀, OpenAI 주관 [Prompter Day 해커톤](https://www.prompterday.com/main) 5등 (500만원 수상)
-   2. [Agent Eval](https://www.youtube.com/watch?v=sjEMBY3Ngbk): [AGI House Agent 해커톤](https://partiful.com/e/I4oVKOY4DXEG5Bn9U61h) 우승
-   3. LAWI 팀, [프라이머 Gen AI 해커톤](https://www.newswire.co.kr/newsRead.php?no=965386) 결선 진출
-5. 프로덕트 개발 & 런칭
-   - [NALY](https://disquiet.io/@marc/makerlog/8017) (스마트 스피커): 프리오더 800만원 기록
-   - [개인화 챗봇, 프로덕트 헌트 Product of the Day 3등](https://www.producthunt.com/products/is-it-you#is-it-you)
-6. 오픈소스 Project
-    - [TestGPT](https://github.com/AttentionX/testGPT): TDD로 GPT 구현 (Andrej Karpathy의 NanoGPT 기반)
-    - [InstructBLIP Fine-tuning](https://github.com/salesforce/LAVIS/issues/302#issuecomment-1931380335)
-7. 오픈소스 Contribution
-   - lit-llama: [PR#357](https://github.com/Lightning-AI/lit-llama/pull/357), [PR#238](https://github.com/Lightning-AI/lit-llama/pull/238), [PR#242](https://github.com/Lightning-AI/lit-llama/pull/242)
-8. 서울대학교 공과대학, GPU 클러스터 지원 (a100 32개 공동 사용)
+    - [fastrepl](https://fastrepl.com), [Weavel](https://www.promptmodel.run), [Krew Capital](https://krewcapital.com/) 투자 유치
+    - Weavel, YC S24 진행 중 (인터뷰 예정)
+    - Nesa Labs, fastrepl, YC W24 인터뷰 진행
+3. 콴다와 협업, Math LLM 프로젝트 협업 진행
 
 ### 🔬 3기 프로젝트들
 1. Autonomous Driving Assistant (박성연, 고려대 김진규 교수님 지도)
-2. Math LLM (조주환, 매스프레소 협업)
+2. Math LLM (조주환, 콴다 협업)
 3. In-Context Knowledge Distillation (김민찬)
 4. Controlled 3D Generation (3D MM) (김성경, 카이스트 성민혁 교수님 지도)
 5. Cache Merging & Spend Less on V.A.T (안영진)
-6. Dynamic 3D Generation (이아담, 고려대 김승룡 교수님 지도)
+6. 4D SDS (이아담, 고려대 김승룡 교수님 지도)
 7. LLM jailbreaking 공격/방어 (유상윤)
 8. Video Highlight/Captioning (한동훈)
 9. Non-invasive biopotential decoding (김도엽)
@@ -55,13 +44,6 @@
 1. [1기 멤버](https://abecid.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
 2. [2기 멤버](https://abecid.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
 3. [3기 멤버](https://abecid.notion.site/AttentionX-3-936500ae929c487b82bb5d5cbbedd07f?pvs=4)
-
-<details>
-<summary>멤버 소개</summary>
-저희는 서울대학교, 카이스트, 외국 대학교 (Berkeley, Stanford, CMU, Oxford) 출신의 연구자, 개발자 위주로 구성되어 있고 김건희, 서민준, 주재걸, 김주호, 김영민, 황승원, Kwangwook Lee, Trevor Darrell, Chelsea Finn 교수님 랩 인턴과 석박사 분들이 활동해왔습니다!    
-연구 팀들은 성민혁, 이기민, 김승룡, 이재윤 교수님, 콴다 연구팀과 소통을 하거나 지도를 받는 팀들이 있고 프로덕트 팀들은 두 팀이 크루 캐피털에서 투자를 받고 두 팀이 YC W24 인터뷰를 보고 프로덕트 개발을 하고 있습니다.     
-(저희 조직과 fit이 맞을것 같은 분들은 언제든지 이메일로 연락주세요!)
-</details>
 
 ### 🤵 게스트
 <details>
@@ -86,16 +68,12 @@
     1. VRCrew 최성광 대표님 <br>
     2. Shift-up 김태훈님 <br>
     3. Beeble.ai 김훈 대표님 <br>
+    4. Twelve Labs 이형민님 <br>
 </details>
 
 ### 🔖 전 기수 활동
 - [1기 활동](https://abecid.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 - [2기 활동](https://abecid.notion.site/2-142fe495a46c4875bc1bef11ac2739f6?pvs=4)
-
-### 📚 자료실
-1. [논문 리뷰 세션](https://skillful-houseboat-70c.notion.site/Study-Sessions-614371ce36a64c318b6c6bf3980f4467)
-2. [NLP 기초 자료](https://skillful-houseboat-70c.notion.site/NLP-0cf2ffe5cc2542a4a6edd9f8e86fb4ef)
-3. [NLP 주요 논문들](https://skillful-houseboat-70c.notion.site/e805b63e1f304c53aed49b4b177d6019?v=22d6287722c341a3a0936638e73534b8)
 
 
 ### 💬 SNS
