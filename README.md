@@ -12,16 +12,16 @@
 
 ### ✨ 활동
 1. 연구
-    - 4D SDS팀, 김승룡 (고려대) 교수님 지도로 AAAI 2025 준비
-    - 3D Face팀, 성민혁 (카이스트) 교수님 지도로 AAAI 2025 준비
-    - VLM팀, 이재윤 (서울대) 교수님 지도로 ACL 2024 제출
-    - InstructBLIP PEFT팀, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
+    - 4D SDS팀, 김승룡 (고려대) 교수님 지도, AAAI 2025 준비
+    - 3D Face팀, 성민혁 (카이스트) 교수님 지도, AAAI 2025 준비
+    - Q-Former팀, 이재윤 (서울대) 교수님 지도, ACL 2024 제출
+    - VLM PEFT팀, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
     - [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
     - 콴다와 Math LLM 협업 연구 EMNLP 2024 준비
 2. 스타트업
     - [fastrepl](https://fastrepl.com)팀 & [Weavel](https://www.promptmodel.run)팀, [Krew Capital](https://krewcapital.com/) 투자 유치
     - Weavel, YC S24 진행 중 (인터뷰 예정)
-    - Nesa Labs, fastrepl, YC W24 인터뷰 진행
+    - Nesa Labs & fastrepl, YC W24 인터뷰 진행
 
 ### 🔬 3기 프로젝트들
 1. Autonomous Driving Assistant (박성연, 고려대 김진규 교수님 지도)
@@ -60,8 +60,7 @@
     2. Neuralkind 김준희님 <br>
     3. 띵스플로우 윤희상님 <br>
     4. 코르카 이태호님 <br>
-    5. 뤼튼 현지웅님 <br>
-    6. 해치랩스 김민석님
+    5. 해치랩스 김민석님
 </details>
 <details>
 <summary>3기 게스트</summary>
