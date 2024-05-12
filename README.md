@@ -13,7 +13,7 @@
 ### ✨ 활동
 1. 연구
     - 4D SDS팀, 김승룡 (고려대) 교수님 지도, AAAI 2025 준비
-    - 3D Face팀, 성민혁 (카이스트) 교수님 지도, AAAI 2025 준비
+    - 3D Face팀, 성민혁 (카이스트) 교수님 지도, ICLR 2025 준비
     - Q-Former팀, 이재윤 (서울대) 교수님 지도, ACL 2024 제출
     - VLM PEFT팀, [NeurIPS Workshop 2023](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
     - [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV Workshop 2024 accept (서울대학교 김동규 교수님 교신 저자)
