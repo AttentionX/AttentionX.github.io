@@ -26,7 +26,7 @@
     - 콴다와 Math LLM 협업 연구
 2. 스타트업
     - [fastrepl](https://fastrepl.com)팀 & [Weavel](https://www.promptmodel.run)팀, [Krew Capital](https://krewcapital.com/) 투자 유치
-    - Weavel, YC S24 진행 중 (인터뷰 예정)
+    - Weavel, YC S24 합격 🔥
     - Nesa Labs & fastrepl, YC W24 인터뷰 진행
 
 ### 🔬 3기 프로젝트들
