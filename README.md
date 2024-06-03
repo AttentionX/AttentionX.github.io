@@ -1,8 +1,5 @@
 # <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research Group 
 
-### 🔥 4기 모집 중
-- [4기 모집 안내](https://attentionx.notion.site/AttentionX-4-0215ec51e0414c5fac43e464e5541667)
-- 서류 마감: 5/26 (일)
 
 ## ✨ 동아리 목표
 - 저희는 장기적으로 산업에서 임팩트가 있는 주제들을 연구하면서 AI 학계에 기여하고 스타트업을 양성하는 것이 목표입니다.
