@@ -1,4 +1,4 @@
-# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Research Group 
+# <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Group 
 
 
 ## ✨ 동아리 목표
@@ -14,7 +14,7 @@
 
 ### ⛷️ 활동
 1. 연구
-    - 4D SDS팀, 김승룡 (고려대) 교수님 지도
+    - 3D Generation팀, 김승룡 (고려대) 교수님 지도
     - 3D Face팀, 성민혁 (카이스트) 교수님 지도
     - Q-Former팀, 이재윤 (서울대) 교수님 지도, ACL 2024 제출
     - VLM PEFT팀, [NeurIPS 2023 Workshop](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
@@ -31,7 +31,7 @@
 3. In-Context Knowledge Distillation (김민찬)
 4. Controlled 3D Generation (3D MM) (김성경, 카이스트 성민혁 교수님 지도)
 5. Cache Merging & Spend Less on V.A.T (안영진)
-6. 4D SDS (이아담, 고려대 김승룡 교수님 지도)
+6. 3D Generation (이아담, 고려대 김승룡 교수님 지도)
 7. LLM jailbreaking 공격/방어 (유상윤)
 8. Video Highlight/Captioning (한동훈)
 9. Non-invasive biopotential decoding (김도엽)
