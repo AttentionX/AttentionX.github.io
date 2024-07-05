@@ -7,7 +7,7 @@
 
 
 ## 💡 동아리 소개
-- 안녕하세요 저희는 한국 (서울대학교, 카이스트)과 해외 대학교 (Berkeley, Stanford, CMU, Oxford)의 학부생/대학원생들과 ML 현직자들(카카오 브레인, 크래프톤, 트웰브랩스 등)이 활동해왔으며
+- 안녕하세요 저희는 한국 (서울대학교, 카이스트)과 해외 대학교 (Berkeley, Stanford, CMU, Oxford)의 학부생/대학원생들과 ML 현직자들(카카오 브레인, 크래프톤, 트웰브랩스, 삼섬 SAIT, SKT, LG AI 등)이 활동해왔으며
 - 다양한 연구실 분들이 있어 여러 연구실 분들과 쉽게 교류하며 함께 연구와 스타트업 준비를 하는 환경을 만들고자 합니다.
 - 저희는 병특/현업분들이 해외 유학/취업과 스타트업 준비를 하는데 최적화하며 연구 활동을 하고있습니다. 
 
@@ -16,10 +16,9 @@
 1. 연구
     - 3D Generation팀, 김승룡 (고려대) 교수님 지도
     - 3D Face팀, 성민혁 (카이스트) 교수님 지도
-    - Q-Former팀, 이재윤 (서울대) 교수님 지도, ACL 2024 제출
     - VLM PEFT팀, [NeurIPS 2023 Workshop](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
     - [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV 2024 Workshop accept (서울대학교 김동규 교수님 교신 저자)
-    - 콴다와 Math LLM 협업 연구
+    - 콴다와 Math LLM 협업 연구 (EMNLP 2024 Submission)
 2. 스타트업
     - [fastrepl](https://fastrepl.com)팀 & [Weavel](https://www.promptmodel.run)팀, [Krew Capital](https://krewcapital.com/) 투자 유치
     - Weavel, YC S24 합격 🔥
