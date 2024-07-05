@@ -45,6 +45,7 @@
 1. [1기 멤버](https://abecid.notion.site/AttentionX-1-1fd7b9c8efb0422c969c877c8d1c09c4?pvs=4)
 2. [2기 멤버](https://abecid.notion.site/AttentionX-2-fd86468a8dbd436dab29ef10f5553da1?pvs=4)
 3. [3기 멤버](https://abecid.notion.site/AttentionX-3-936500ae929c487b82bb5d5cbbedd07f?pvs=4)
+4. [4기 멤버](https://attentionx.notion.site/AttentionX-4-17de435f663e4ad3bb8ad543cd86b8f0?pvs=4)
 
 ### 🤵 게스트
 <details>
