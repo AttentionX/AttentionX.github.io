@@ -24,21 +24,11 @@
     - Weavel, YC S24 합격 🔥
     - Nesa Labs & fastrepl, YC W24 인터뷰 진행
 
-### 🔬 3기 프로젝트들
-1. Autonomous Driving Assistant (박성연, 고려대 김진규 교수님 지도)
-2. Math LLM (조주환, 콴다 협업)
-3. In-Context Knowledge Distillation (김민찬)
-4. Controlled 3D Generation (3D MM) (김성경, 카이스트 성민혁 교수님 지도)
-5. Cache Merging & Spend Less on V.A.T (안영진)
-6. 3D Generation (이아담, 고려대 김승룡 교수님 지도)
-7. LLM jailbreaking 공격/방어 (유상윤)
-8. Video Highlight/Captioning (한동훈)
-9. Non-invasive biopotential decoding (김도엽)
-10. Robot safety reward model (홍순범)
-11. Music Generation Research (고계훈)
-12. Plug-and-Play Knowledge Injection for LLMs (박은환)
-13. Resolve LLM ambiguity by throwing questions (석주영)
-14. Reflective Learning (신승윤)
+### 🔬 4기 팀들
+1. 3D / Diffusion
+2. LLM
+3. VLM
+4. RL
 
 
 ### 👨‍👨‍👧‍👧 멤버
