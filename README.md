@@ -65,7 +65,7 @@
 ### 🔖 전 기수 활동
 - [1기 활동](https://abecid.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
 - [2기 활동](https://abecid.notion.site/2-142fe495a46c4875bc1bef11ac2739f6?pvs=4)
-
+- [3기 활동](https://attentionx.notion.site/AttentionX-3-5c43824f806d48d084bae7451bc69477?pvs=4)
 
 ### 💬 SNS
 - [인스타그램](https://www.instagram.com/attentionx.ai/)
