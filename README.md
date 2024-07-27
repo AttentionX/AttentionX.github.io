@@ -61,6 +61,10 @@
     3. Beeble.ai 김훈 대표님 <br>
     4. Twelve Labs 이형민님 <br>
 </details>
+<details>
+<summary>4기 게스트</summary>
+    1. <a href="https://scholar.harvard.edu/jclee/biocv">Julia Lee</a>, Harvard University 교수
+</details>
 
 ### 🔖 전 기수 활동
 - [1기 활동](https://abecid.notion.site/1-e41e8583e724455ca1959d24332246e5?pvs=4)
