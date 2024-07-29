@@ -28,7 +28,7 @@
 1. 3D / Diffusion
 2. LLM
 3. VLM
-4. RL
+4. RL / Robotics
 
 
 ### 👨‍👨‍👧‍👧 멤버
