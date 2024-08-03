@@ -64,7 +64,7 @@
 <details>
 <summary>4기 게스트</summary>
     1. <a href="https://scholar.harvard.edu/jclee/biocv">Julia Lee</a>, Harvard University 교수  <br>
-    2. 정순호, <a href="https://www.ycombinator.com/companies/weavel">Weavel (YC S24) CEO</a>
+    2. 정순호, <a href="https://www.ycombinator.com/companies/weavel">Weavel (YC S24)</a> CEO
 </details>
 
 ### 🔖 전 기수 활동
