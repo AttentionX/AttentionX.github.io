@@ -58,7 +58,7 @@
 <details>
 <summary>3기 게스트</summary>
     1. VRCrew 최성광 대표님 <br>
-    2. Shift-up 김태훈님 <br>
+    2. ex-OpenAI 김태훈님 <br>
     3. Beeble.ai 김훈 대표님 <br>
     4. Twelve Labs 이형민님 <br>
 </details>
