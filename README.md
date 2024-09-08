@@ -41,9 +41,7 @@
 ### 🤵 게스트
 <details>
 <summary>1기 게스트</summary>
-  1. <a href="https://wrtn.ai/">뤼튼</a> 이세영 대표님
-    <br>
-  2. <a href="https://www.learners.company/">팀러너스</a> 맹주성 대표님
+  1. <a href="https://www.learners.company/">팀러너스</a> 맹주성 대표님
     <br>
   3. <a href="https://www.ringleplus.com/ko/student/landing/team">링글</a> 이성파 대표님
 </details>
@@ -51,7 +49,7 @@
 <summary>2기 게스트</summary>
     1. Krew Capital 송민재님, 민병훈님 <br>
     2. Neuralkind 김준희님 <br>
-    3. 띵스플로우 윤희상님 <br>
+    3. Endo Health 윤희상님 <br>
     4. 코르카 이태호님 <br>
     5. 해치랩스 김민석님
 </details>
