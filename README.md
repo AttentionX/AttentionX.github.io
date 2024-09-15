@@ -42,7 +42,7 @@
 <summary>1기 게스트</summary>
   1. <a href="https://www.learners.company/">팀러너스</a> 맹주성 대표님
     <br>
-  3. <a href="https://www.ringleplus.com/ko/student/landing/team">링글</a> 이성파 대표님
+  2. <a href="https://www.ringleplus.com/ko/student/landing/team">링글</a> 이성파 대표님
 </details>
 <details>
 <summary>2기 게스트</summary>
