@@ -15,8 +15,8 @@
 1. 연구
     - 3D Generation팀, 김승룡 (고려대) 교수님 지도
     - 3D Face팀, 성민혁 (카이스트) 교수님 지도
-    - Video Understanding팀, 곽노준 (서울대) 교수님 지도 (EMNLP 2024 Submission)
-    - VLM PEFT팀, [NeurIPS 2023 Workshop](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks) accept (서울대학교 이재윤 교수님 교신 저자)
+    - Video Understanding팀, 곽노준 (서울대) 교수님 지도 (EMNLP 2024 Industry Track Submission)
+    - VLM PEFT팀, [NeurIPS 2023 Workshop](https://neurips2023-enlsp.github.io/accepted_papers.html#:~:text=Parameter%2DEfficient%20Fine%2Dtuning%20of%20InstructBLIP%20for%20Visual%20Reasoning%20Tasks), EMNLP Findings 2024 accept (서울대학교 이재윤 교수님 교신 저자)
     - [Video-LLaMA Drive](https://github.com/sungyeonparkk/vision-assistant-for-driving)팀, WACV 2024 Workshop accept (서울대학교 김동규 교수님 교신 저자)
     - 콴다와 Math LLM 협업 연구 (EMNLP 2024 Submission)
 2. 스타트업
