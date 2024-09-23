@@ -24,6 +24,8 @@
     - Weavel, [YC S24](https://www.ycombinator.com/companies/weavel) 합격 🔥
     - Nesa Labs & fastrepl, YC W24 인터뷰 진행
     - [AIM Intelligence](https://aim-intelligence.com/), 본엔젤스 투자 유치
+
+
 ### 🔬 4기 팀들
 1. 3D / Diffusion
 2. LLM
