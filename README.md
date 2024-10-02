@@ -1,6 +1,6 @@
 # <img width="26" alt="image" src="https://i.ibb.co/jJJV9fs/1686903632416.jpg"> AttentionX: AI Group 
 
-[US Site](https://attentionx.notion.site/AttentionX-f13583b9cc6e452dbc8a1a9fec2bac00?pvs=74)
+[🇺🇸English Site](https://attentionx.notion.site/AttentionX-f13583b9cc6e452dbc8a1a9fec2bac00?pvs=74)
 
 ## ✨ 동아리 목표
 - 저희는 장기적으로 산업에서 임팩트가 있는 주제들을 연구하면서 AI 학계에 기여하고 스타트업을 양성하는 것이 목표입니다.
